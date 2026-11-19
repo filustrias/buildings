@@ -18,7 +18,7 @@ let i = 0;
 const tocItems = headings
   .filter((h) => h.depth === 2 || h.depth === 3)
   .map((h) => ({ ...h, n: h.depth === 2 ? numbers[i++] ?? '' : null }));
-const home = import.meta.env.BASE_URL;
+const home = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 ---
 <Base title={title} description={lead.replace(/[*`]/g, '')}>
   <div class="progress" aria-hidden="true"><span></span></div>

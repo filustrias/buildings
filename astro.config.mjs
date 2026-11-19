@@ -5,6 +5,8 @@ import remarkLiteralTilde from './src/plugins/remark-literal-tilde.mjs';
 import rehypeStructure from './src/plugins/rehype-structure.mjs';
 
 export default defineConfig({
+  site: 'https://filustrias.github.io',
+  base: '/buildings',
   markdown: {
     processor: unified({
       remarkPlugins: [remarkLiteralTilde],

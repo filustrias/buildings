@@ -1,6 +1,7 @@
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import Lenis from 'lenis';
+import { drawPlan } from './plan';
 
 gsap.registerPlugin(ScrollTrigger);
 const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -53,23 +54,15 @@ document.querySelectorAll<HTMLElement>('.chapter').forEach((ch) => {
   mark.className = 'chapter-mark';
   mark.setAttribute('aria-hidden', 'true');
   mark.textContent = ch.dataset.chapter ?? '';
+  if (!mark.textContent) mark.classList.add('is-empty');
   ch.prepend(mark);
 });
 
 /* ---------- hero ---------- */
 if (!reduced) {
-  const walls = document.querySelectorAll<SVGGeometryElement>('.plan-walls > *, .plan-dim line');
-  walls.forEach((w) => {
-    const len = w.getTotalLength();
-    w.style.strokeDasharray = `${len}`;
-    w.style.strokeDashoffset = `${len}`;
-  });
+  drawPlan();
   gsap
     .timeline({ defaults: { ease: 'expo.out' } })
-    .from('.plan-grid line', { opacity: 0, duration: 1.4, stagger: 0.02, ease: 'power2.out' }, 0)
-    .to(walls, { strokeDashoffset: 0, duration: 1.8, stagger: 0.08, ease: 'power3.inOut' }, 0.2)
-    .from('.plan-fill', { scaleY: 0, transformOrigin: '50% 100%', duration: 1.2, ease: 'expo.inOut' }, 1.1)
-    .from('.plan-marks circle', { scale: 0, transformOrigin: 'center', duration: 0.6, stagger: 0.06 }, 1.5)
     .from('[data-hero-line]', { yPercent: 110, duration: 1.4, stagger: 0.12 }, 0.3)
     .from('[data-hero]', { opacity: 0, y: 24, duration: 1.2, stagger: 0.15 }, 0.8);
 
@@ -99,7 +92,7 @@ gsap.to('.progress span', {
 /* ---------- reveals ---------- */
 if (!reduced) {
   document
-    .querySelectorAll<HTMLElement>('.chapter > h2, .chapter > h3, .chapter > p, .chapter > ul, .chapter > ol, .chapter > .table-wrap, .chapter > .figure')
+    .querySelectorAll<HTMLElement>('.preface, .chapter > h2, .chapter > h3, .chapter > p, .chapter > ul, .chapter > ol, .chapter > .table-wrap, .chapter > .figure')
     .forEach((el) => el.setAttribute('data-reveal', ''));
 
   ScrollTrigger.batch('[data-reveal]', {
@@ -143,7 +136,7 @@ function setActive(h: HTMLElement | undefined) {
   tocLinks.get(h.id)?.scrollIntoView({ block: 'nearest' });
   const ch = h.closest<HTMLElement>('.chapter');
   const h2 = ch?.querySelector('h2');
-  if (chapterLabel && ch && h2) chapterLabel.textContent = `${ch.dataset.chapter} — ${h2.textContent}`;
+  if (chapterLabel && ch && h2) chapterLabel.textContent = ch.dataset.chapter ? `${ch.dataset.chapter} — ${h2.textContent}` : h2.textContent ?? '';
 }
 heads.forEach((h, i) => {
   ScrollTrigger.create({

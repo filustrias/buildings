@@ -1,75 +1,43 @@
 ---
-import { getCollection, render } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import PlanDrawing from '../components/PlanDrawing.astro';
+import { getStudies, studyHeader, inlineMd } from '../lib/study';
 
-const [entry] = await getCollection('estudos');
-const { Content, headings } = await render(entry);
-
-// Cabeçalho do .md: "# Título", linha de autoria e parágrafo de resumo (antes do primeiro "## ").
-const headBlock = (entry.body ?? '').split(/\n## /)[0];
-const paras = headBlock.split(/\n\s*\n/).map((s) => s.trim()).filter(Boolean);
-const title = (paras.find((p) => p.startsWith('# ')) ?? '# ').slice(2).trim();
-const rest = paras.filter((p) => !p.startsWith('# '));
-const byline = rest[0] ?? '';
-const lead = rest[1] ?? '';
-
-const [titleMain, titleSub] = title.split(/:\s*/);
-const toc = headings.filter((h) => h.depth === 2 || h.depth === 3);
-let chapter = 0;
-const tocItems = toc.map((h) => ({ ...h, n: h.depth === 2 ? String(++chapter).padStart(2, '0') : null }));
+const studies = (await getStudies()).map((entry, i) => ({
+  href: `${import.meta.env.BASE_URL.replace(/\/$/, '')}/${entry.id}/`,
+  n: String(i + 1).padStart(2, '0'),
+  ...studyHeader(entry.body),
+}));
 ---
-<Base title={title} description={lead}>
-  <div class="progress" aria-hidden="true"><span></span></div>
-
+<Base title="Estudos">
   <header class="topbar">
-    <a href="#top" class="topbar-mark" aria-label={titleMain}>
-      <svg viewBox="0 0 32 32" aria-hidden="true"><rect x="6" y="6" width="9" height="9"/><rect x="17" y="6" width="9" height="20" class="f"/><rect x="6" y="17" width="9" height="9"/></svg>
-    </a>
-    <span class="topbar-title">{titleMain}</span>
-    <span class="topbar-chapter" data-current-chapter></span>
-    <button class="toc-toggle" aria-expanded="false" aria-controls="toc">Índice</button>
+    <span class="topbar-mark" aria-hidden="true">
+      <svg viewBox="0 0 32 32"><rect x="6" y="6" width="9" height="9"/><rect x="17" y="6" width="9" height="20" class="f"/><rect x="6" y="17" width="9" height="9"/></svg>
+    </span>
   </header>
 
-  <section class="hero" id="top">
-    <div class="hero-drawing"><PlanDrawing /></div>
-    <div class="hero-inner">
-      <p class="hero-byline" data-hero>{byline}</p>
-      <h1 class="hero-title">
-        <span class="line"><span data-hero-line>{titleMain}</span></span>
-        {titleSub && <span class="line sub"><span data-hero-line>{titleSub}</span></span>}
-      </h1>
-      <p class="hero-lead" data-hero>{lead}</p>
-    </div>
-    <a href="#estudo" class="hero-scroll" aria-label="↓"><span></span></a>
-  </section>
+  <main class="cover">
+    <div class="hero-drawing cover-drawing"><PlanDrawing /></div>
+    <ol class="cover-list">
+      {studies.map((s) => (
+        <li class="cover-item" data-cover-item>
+          <a href={s.href}>
+            <span class="cover-n">{s.n}</span>
+            <span class="cover-body">
+              <span class="cover-byline">{s.byline}</span>
+              <span class="cover-title">
+                {s.titleMain}{s.titleSub && <em>{s.titleSub}</em>}
+              </span>
+              <span class="cover-lead" set:html={inlineMd(s.lead)} />
+            </span>
+            <span class="cover-arrow" aria-hidden="true">→</span>
+          </a>
+        </li>
+      ))}
+    </ol>
+  </main>
 
-  <div class="doc" id="estudo">
-    <nav class="toc" id="toc" aria-label="Índice">
-      <p class="toc-label">Índice</p>
-      <ol>
-        {tocItems.map((h) => (
-          <li class={`d${h.depth}`}>
-            <a href={`#${h.slug}`} data-toc-link={h.slug}>
-              {h.n && <span class="toc-n">{h.n}</span>}
-              <span>{h.text}</span>
-            </a>
-          </li>
-        ))}
-      </ol>
-    </nav>
-
-    <article class="prose">
-      <Content />
-    </article>
-  </div>
-
-  <footer class="footer">
-    <div class="footer-inner">
-      <span>{title}</span>
-      <span>{byline}</span>
-    </div>
-  </footer>
-
-  <div class="lightbox" hidden><img alt="" /><p></p></div>
+  <script>
+    import '../scripts/cover.ts';
+  </script>
 </Base>

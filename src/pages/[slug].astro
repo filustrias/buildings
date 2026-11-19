@@ -1,0 +1,80 @@
+---
+import { render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import PlanDrawing from '../components/PlanDrawing.astro';
+import { getStudies, studyHeader, chapterNumbers, inlineMd } from '../lib/study';
+
+export async function getStaticPaths() {
+  const studies = await getStudies();
+  return studies.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content, headings } = await render(entry);
+const { title, titleMain, titleSub, byline, lead } = studyHeader(entry.body);
+const numbers = chapterNumbers(entry.body);
+
+let i = 0;
+const tocItems = headings
+  .filter((h) => h.depth === 2 || h.depth === 3)
+  .map((h) => ({ ...h, n: h.depth === 2 ? numbers[i++] ?? '' : null }));
+const home = import.meta.env.BASE_URL;
+---
+<Base title={title} description={lead.replace(/[*`]/g, '')}>
+  <div class="progress" aria-hidden="true"><span></span></div>
+
+  <header class="topbar">
+    <a href={home} class="topbar-mark" aria-label="Início">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><rect x="6" y="6" width="9" height="9"/><rect x="17" y="6" width="9" height="20" class="f"/><rect x="6" y="17" width="9" height="9"/></svg>
+    </a>
+    <span class="topbar-title">{titleMain}</span>
+    <span class="topbar-chapter" data-current-chapter></span>
+    <button class="toc-toggle" aria-expanded="false" aria-controls="toc">Índice</button>
+  </header>
+
+  <section class="hero" id="top">
+    <div class="hero-drawing"><PlanDrawing /></div>
+    <div class="hero-inner">
+      <p class="hero-byline" data-hero>{byline}</p>
+      <h1 class={title.length > 70 ? "hero-title is-long" : "hero-title"}>
+        <span class="line"><span data-hero-line>{titleMain}</span></span>
+        {titleSub && <span class="line sub"><span data-hero-line>{titleSub}</span></span>}
+      </h1>
+      <p class="hero-lead" data-hero set:html={inlineMd(lead)} />
+    </div>
+    <a href="#estudo" class="hero-scroll" aria-label="↓"><span></span></a>
+  </section>
+
+  <div class="doc" id="estudo">
+    <nav class="toc" id="toc" aria-label="Índice">
+      <p class="toc-label">Índice</p>
+      <ol>
+        {tocItems.map((h) => (
+          <li class={`d${h.depth}`}>
+            <a href={`#${h.slug}`} data-toc-link={h.slug}>
+              {h.depth === 2 && <span class="toc-n">{h.n}</span>}
+              <span>{h.text}</span>
+            </a>
+          </li>
+        ))}
+      </ol>
+    </nav>
+
+    <article class="prose">
+      <Content />
+    </article>
+  </div>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <span>{title}</span>
+      <span>{byline}</span>
+    </div>
+  </footer>
+
+  <div class="lightbox" hidden><img alt="" /><p></p></div>
+
+  <script>
+    import '../scripts/study.ts';
+  </script>
+</Base>

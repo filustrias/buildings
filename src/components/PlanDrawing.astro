@@ -1,0 +1,30 @@
+---
+// Composição gráfica abstrata (planta modular 8/16/32 m²), desenhada em SVG e animada no carregamento.
+---
+<svg class="plan" viewBox="0 0 640 520" aria-hidden="true">
+  <g class="plan-grid">
+    {Array.from({ length: 17 }, (_, i) => <line x1={i * 40} y1="0" x2={i * 40} y2="520" />)}
+    {Array.from({ length: 14 }, (_, i) => <line x1="0" y1={i * 40} x2="640" y2={i * 40} />)}
+  </g>
+  <g class="plan-walls">
+    <rect x="80" y="80" width="480" height="360" />
+    <line x1="80" y1="200" x2="320" y2="200" />
+    <line x1="200" y1="80" x2="200" y2="200" />
+    <line x1="320" y1="80" x2="320" y2="440" />
+    <line x1="320" y1="280" x2="560" y2="280" />
+    <line x1="440" y1="80" x2="440" y2="280" />
+    <line x1="80" y1="320" x2="320" y2="320" />
+  </g>
+  <rect class="plan-fill" x="320" y="280" width="240" height="160" />
+  <g class="plan-marks">
+    <circle cx="140" cy="140" r="3" /><circle cx="260" cy="140" r="3" />
+    <circle cx="380" cy="180" r="3" /><circle cx="500" cy="180" r="3" />
+    <circle cx="200" cy="260" r="3" /><circle cx="200" cy="380" r="3" />
+  </g>
+  <g class="plan-dim">
+    <line x1="80" y1="470" x2="560" y2="470" />
+    <line x1="80" y1="462" x2="80" y2="478" /><line x1="560" y1="462" x2="560" y2="478" />
+    <line x1="600" y1="80" x2="600" y2="440" />
+    <line x1="592" y1="80" x2="608" y2="80" /><line x1="592" y1="440" x2="608" y2="440" />
+  </g>
+</svg>

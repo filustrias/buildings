@@ -18,19 +18,6 @@ O estudo cobre unidades de cuidados primários e de base comunitária, de postos
 
 **Custos.** Mantêm-se na moeda e no ano da fonte. Os valores por m² marcados como (calc.) foram calculados aqui a partir do custo e da área publicados na mesma fonte. As comparações entre países são indicativas: diferem o ano, o que está incluído (equipamento, honorários, obras externas) e o preço local da construção.
 
-## Verificação com os PDF da pasta
-
-Os quatro PDF da pasta `buildings` foram lidos página a página em 19/11/2026.
-
-| Ficheiro | Documento | Páginas | Resultado |
-| --- | --- | --- | --- |
-| `9789241547239_eng.pdf` | OMS, *Essential environmental health standards in health care* (2008) | 59 | As 16 citações conferidas batem com a página impressa: água (pp. 29–30), qualidade (pp. 27–28, 31), sanitários (p. 32), chuveiros (p. 30), resíduos (pp. 36–37), infiltração (pp. 34–35), leitos (p. 44), ventilação (p. 43). Acrescentada a Diretriz 9, sobre desenho do edifício (pp. 42–45) |
-| `9789240012226-eng.pdf` | OMS, *Guidance for climate-resilient and environmentally sustainable health care facilities* (2020) | 92 | Confirmadas as pp. 2, 10, 16, 17, 34 e 42–43. Lidas as tabelas de energia (4.3, pp. 48–53) e de infraestrutura (4.4, pp. 54–63), que antes não tinham aberto |
-| `Design-Guidelines-for-Tupapa-Clinic.pdf` | Ministério da Saúde das Ilhas Cook, diretrizes da Tupapa (2021), baseadas na AusHFG | 19 | Lido na íntegra. **Correção:** pela AusHFG, o consultório geral é de 12 m² (p. 8), e não de 16 m²; os 16 m² são da sala de ORL/oftalmologia |
-| `2022 Pritzker Prize Image Book.pdf` | Prémio Pritzker 2022, Diébédo Francis Kéré | 25 | Lidas as pp. 6–9 e 15 (Laongo, Léo, moradia para médicos). Confirmadas as janelas em várias alturas (p. 7) e os dez módulos de Léo (p. 9); acrescentados materiais, pátios de espera e tratamento de águas cinzentas |
-
-Duas citações anteriores foram reatribuídas: os vidros resistentes a ventos de 200–250 km/h e os telhados brancos refletivos, antes atribuídos ao *overview* da OMS de 2024, estão no guia de 2020, p. 56.
-
 ## Normas internacionais por eixo
 
 A OMS não fixa área total para unidades primárias. Fixa condições mínimas, que são a base dos programas nacionais. O único programa de áreas internacional encontrado é o guia da UNICEF de 2005.
@@ -198,12 +185,11 @@ Custo licitado do Porte I (SINAPI 2025): Santos Dumont/MG, R$ 1,96 milhão para 
 
 ### Clínicas da Família do Rio de Janeiro
 
-O Rio construiu 76 Clínicas da Família entre 2009 e meados de 2015, que abrigavam 732 das 860 eSF da cidade; a cobertura da ESF passou de 3,5% (2008) para mais de 40% (2013) (Soranz, Pinto e Penna, [Ciênc. Saúde Coletiva 2016](https://www.redalyc.org/pdf/630/63045664002.pdf), pp. 1327, 1333–1334). Eram 110 em novembro de 2016 ([Soranz e Pisco 2017](https://www.redalyc.org/pdf/630/63050018002.pdf), p. 682) e 139 em setembro de 2026.
+O Rio construiu 76 novos centros de saúde na comunidade, nomeados lá de Clínicas da Família, entre 2009 e meados de 2015, que abrigavam 732 das 860 eSF da cidade; a cobertura da ESF passou de 3,5% (2008) para mais de 40% (2013) (Soranz, Pinto e Penna, [Ciênc. Saúde Coletiva 2016](https://www.redalyc.org/pdf/630/63045664002.pdf), pp. 1327, 1333–1334). Eram 110 em novembro de 2016 ([Soranz e Pisco 2017](https://www.redalyc.org/pdf/630/63050018002.pdf), p. 682) e 139 em setembro de 2026.
 
 - **Programa:** unidades grandes, de 5 a 9 eSF mais eSB, com raio-X e ultrassom em parte delas, e espaço para ensino (residência).
 - **Custo por unidade (imprensa):** R$ 2,5–3 milhões em 2010–2011; R$ 4,8 milhões em 2015 (Jabour); R$ 5 milhões previstos em 2026 para ~1.500 m² no Recreio (~R$ 3.300/m², calc.). As obras foram feitas pela RioUrbe com recursos municipais; a gestão é por Organizações Sociais. A CF Recreio é financiada por emenda de bancada federal.
 - **Novo modelo (2026):** pé-direito alto, brises externos e climatização total, com foco no calor extremo (CF Taquara, 9 eSF, 10 consultórios, auditório e Academia Carioca).
-- **Avaliação:** com o PCATool, unidades tipo A (Clínicas da Família) tiveram escores maiores que as tipo B/C em todos os atributos (Harzheim et al. 2014, resumo).
 - **Críticas:** implantação em praças desafetadas, com pouco diálogo com moradores (Menezes e Tângari, [SBQP 2019](https://eventos.antac.org.br/index.php/sbqp/article/download/3125/2577/9346), pp. 165–177); redução de 1.251 para 1.090 equipas entre 2017 e 2019, mostrando que a rede física depende de custeio estável ([Melo et al., CSC 2019](https://www.scielo.br/j/csc/a/DvfHFsvqYzXN4bPX9HbsBxj/?lang=pt)). Não foi encontrada avaliação pós-ocupação.
 
 ### CAPS e Unidades de Acolhimento

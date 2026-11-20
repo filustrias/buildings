@@ -6,6 +6,7 @@ export const STUDY_FILES = [
   'estrutura_fisica_unidades_CSP_estudo_comparativo.md',
   'ventilação.md',
   'sanitation.md',
+  'energia.md',
 ];
 
 const toSlug = (entry: string) =>

@@ -87,7 +87,7 @@ img { max-width: 100%; height: auto; display: block; }
   font-size: clamp(46px, 8.2vw, 132px); line-height: .94; letter-spacing: -.02em;
 }
 .hero-title.is-long { font-size: clamp(40px, 5.4vw, 92px); }
-.hero-title .line { display: block; overflow: hidden; padding-bottom: .06em; }
+.hero-title .line { display: block; overflow: hidden; padding: .16em 0 .06em; margin-top: -.16em; }
 .hero-title .line > span { display: inline-block; }
 .hero-title .sub { font-style: italic; color: #cfc8bb; }
 .hero-lead {

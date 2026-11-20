@@ -20,7 +20,7 @@ const tocItems = headings
   .map((h) => ({ ...h, n: h.depth === 2 ? numbers[i++] ?? '' : null }));
 const home = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 ---
-<Base title={title} description={lead.replace(/[*`]/g, '')}>
+<Base title={title} description={lead ? lead.replace(/[*`]/g, '') : undefined}>
   <div class="progress" aria-hidden="true"><span></span></div>
 
   <header class="topbar">
@@ -40,7 +40,7 @@ const home = import.meta.env.BASE_URL.replace(/\/?$/, '/');
         <span class="line"><span data-hero-line>{titleMain}</span></span>
         {titleSub && <span class="line sub"><span data-hero-line>{titleSub}</span></span>}
       </h1>
-      <p class="hero-lead" data-hero set:html={inlineMd(lead)} />
+      {lead && <p class="hero-lead" data-hero set:html={inlineMd(lead)} />}
     </div>
     <a href="#estudo" class="hero-scroll" aria-label="↓"><span></span></a>
   </section>

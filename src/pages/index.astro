@@ -28,7 +28,7 @@ const studies = (await getStudies()).map((entry, i) => ({
               <span class="cover-title">
                 {s.titleMain}{s.titleSub && <em>{s.titleSub}</em>}
               </span>
-              <span class="cover-lead" set:html={inlineMd(s.lead)} />
+              {s.lead && <span class="cover-lead" set:html={inlineMd(s.lead)} />}
             </span>
             <span class="cover-arrow" aria-hidden="true">→</span>
           </a>

@@ -7,6 +7,7 @@ export const STUDY_FILES = [
   'ventilação.md',
   'sanitation.md',
   'energia.md',
+  'governanca.md',
 ];
 
 const toSlug = (entry: string) =>

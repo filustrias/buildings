@@ -225,6 +225,8 @@ A lição principal da UPA é sobre custeio: em 2017, 165 UPAs e 993 UBS constru
 - **Pré-fabricação de Lelé no Rio (1986–1988):** 28 postos de saúde em argamassa armada, com ventilação e iluminação por aberturas na laje. Depois de 1994, sem a fábrica, surgiram patologias, desconforto térmico e manutenção difícil ([Longhi, FAU-UFRJ 2001](https://pantheon.ufrj.br/bitstream/11422/11477/1/531360.pdf), pp. 19–21). A lição é que sistemas pré-fabricados exigem uma cadeia de manutenção própria.
 - **Light steel frame na PPP de Belo Horizonte:** 40 centros de saúde construídos em cerca de 9 meses cada (ver Financiamento).
 
+![UBS Fluvial de Itupiranga, no rio Tocantins, Pará, Brasil (2021). Foto: Hallel/Wikimedia Commons, CC BY-SA 4.0.](imagens/brasil-ubs-fluvial-itupiranga.jpg)
+
 ## Países de alta renda
 
 Os países de alta renda convergem em três ideias: salas genéricas e intercambiáveis, crescimento previsto desde o projeto e metas energéticas ou de carbono. O custo de obra fica entre cerca de €1.500 e €4.000/m².
@@ -272,6 +274,8 @@ A CSA Z8000-18 inclui instalações comunitárias no seu âmbito e define folgas
 - **Financiamento federal de capital:** os Federally Qualified Health Centers receberam subsídios do HRSA, por exemplo US$ 727 milhões para 143 centros em 2010 e US$ 1 bilhão do American Rescue Plan em 2021. O total do ACA para obras aparece como US$ 1,0 ou 1,5 bilhão conforme o relatório do CRS; a diferença não foi esclarecida.
 - **Energia zero:** Pueblo Community Health Center, East Side Clinic (Colorado), 5.936 m² e US$ 24 milhões (~US$ 4.040/m², calc.). O desenho energia zero acrescentou cerca de 6,25% ao custo; no 1.º ano produziu 435.744 kWh e consumiu 423.024 kWh ([NBI, 2023](https://newbuildings.org/news/pueblo-community-healths-new-east-side-clinic-is-first-zero-energy-health-center-in-u-s/)).
 
+![East Side Clinic, Pueblo Community Health Center, Colorado, EUA (2023): centro de saúde de energia zero. Foto: Jeffrey Beall/Wikimedia Commons, CC BY 4.0.](imagens/eua-pueblo-east-side-clinic.jpg)
+
 ### Portugal e Espanha
 
 - **Portugal:** as [Orientações para Instalações de USF (2006)](https://www.cascais.pt/sites/default/files/anexos/gerais/new/anexo_6_orientacoes_instalacoes_e_equipamentos_para_usf.pdf) dão gabinetes de 14 m², corredores de pelo menos 1,40 m, portas de 0,90–1,10 m e elevador obrigatório em mais de um piso (pp. 5–17). O PRR financia 55 centros de saúde novos e 335 requalificados, com prazo em 31/08/2026; custos por projeto entre €1,9 e 4,3 milhões (Pousos, Mafra, Arganil), sem área publicada.
@@ -296,6 +300,8 @@ O Plano Nacional de Investimentos 2014–2018 previa 100 CESFAM, 100 CECOSF e 13
 | CESFAM | Centro de saúde familiar | 1.400–2.700 m² | 7.000–25.000 | Arica Sur 2018: CLP 4.200 milhões, 2.132 m² (~CLP 1,97 milhão/m², calc.) |
 | SAR | Serviço de urgência de alta resolutividade, anexo ao CESFAM | ~500 m² | >30.000 | Villa Alegre 2018: >CLP 790 milhões, 500 m² (~CLP 1,58 milhão/m², calc.) |
 
+![CESFAM de La Ligua, Região de Valparaíso, Chile (2017). Foto: Luis Felipe Tapia Yanfka/Wikimedia Commons, CC BY 2.0.](imagens/chile-cesfam-la-ligua.jpg)
+
 Financiamento por três canais: setorial (MINSAL), Fundo Nacional de Desenvolvimento Regional (FNDR) e convénios de programação entre MINSAL e governo regional. No CECOSF de Arica, o MINSAL pagou a obra e o município paga a operação. Fontes: notas MINSAL de [Arica Sur](https://www.minsal.cl/arica-obras-de-cesfam-sur-tienen-un-76-de-avance-y-estaria-listo-en-noviembre/), [Villa Alegre](https://www.minsal.cl/construccion-de-sar-en-villa-alegre-presenta-un-99-de-avance/) e [CECOSF Arica](https://www.minsal.cl/servicio-de-salud-arica-confirmo-80-por-ciento-de-avance-en-obras-de-cecosf-dr-rene-garcia/). O guia de desenho do MINSAL não foi encontrado.
 
 ### Costa Rica
@@ -304,6 +310,8 @@ Financiamento por três canais: setorial (MINSAL), Fundo Nacional de Desenvolvim
 - Sedes com vários EBAIS: San Vito de Coto Brus (2023), sede "tipo 3" com 3 EBAIS por ~₡1.450 milhões; La Ribera e Escobal (2017), US$ 2,1 milhões por dois edifícios com 3 EBAIS.
 - **Fideicomisso imobiliário CCSS/BCR (2017):** US$ 700 milhões para 53 imóveis, entre eles 30 sedes de área de saúde ([Semanario Universidad](https://semanariouniversidad.com/pais/junta-directiva-de-la-caja-analiza-si-continuara-con-fideicomiso-bcr-ccss-para-construir-30-areas-de-salud/)). Exemplos: Cariari, 7.060 m² para mais de 75.000 pessoas (2026); La Unión, 6.221 m² para mais de 41.000 (2025).
 - **Cooperativa:** a sede de EBAIS de El Llano (2025) foi paga pela cooperativa gestora com crédito do INFOCOOP, ~~₡1.950 milhões para 1.940 m² (~~₡1 milhão/m², calc.) ([El Mundo CR](https://elmundo.cr/costa-rica/coopesalud-r-l-inaugura-nueva-sede-de-ebais-en-el-llano-de-desamparados-con-inversion-de-%c2%a21-950-millones/)).
+
+![Sede de EBAIS de San Pablo, León Cortés, Costa Rica (2018). Foto: Csavil/Wikimedia Commons, CC BY-SA 4.0.](imagens/costa-rica-ebais-san-pablo-leon-cortes.jpg)
 
 ### Peru, México, Colômbia, Uruguai e Argentina
 
@@ -330,6 +338,8 @@ As [Diretrizes Nacionais de Postos de Saúde (2022)](https://extranet.who.int/cp
 | Posto de 1.ª geração | 4–5 salas: consulta, observação, depósito, farmácia, espera | ~64 m² | US$ 20.243 | US$ 8.097 | US$ 28.340 |
 | Posto de 2.ª geração | 17 espaços: 2 consultórios, laboratório, curativos, esterilização, maternidade, farmácia, odontologia e oftalmologia | ~175 m² | US$ 58.005 | US$ 20.132 | US$ 78.137 |
 
+![Posto de saúde de Rugobagoba, Ruanda (2021). Foto: Patricia Debinta/Wikimedia Commons, CC BY-SA 4.0.](imagens/ruanda-posto-rugobagoba.jpg)
+
 Custos na Tabela 4 (p. 26); programa na p. 42. A obra sai a ~US$ 315–330/m² (calc.). Critério de implantação: mais de 45 minutos a pé até outra unidade (p. 42). Financiamento misto: o distrito cofinancia; um empresário privado pode construir seguindo o desenho aprovado e operar; a comunidade identifica o terreno e dá mão de obra (pp. 13, 21–22, 26).
 
 Duas lições adicionais:
@@ -353,6 +363,8 @@ Centro de saúde de Masoro (General Architecture Collaborative): 1.000 m² por U
 - **MASS, Kasungu (Malawi, 2015):** aldeia de espera materna com 36 leitos e orçamento-alvo de ~US$ 100 mil; substituiu um barracão sem luz, ventilação nem saneamento, que as mulheres abandonavam ([Architectural Record](https://architecturalrecord.com/articles/11775-kasungu-maternity-waiting-village)).
 - **MASS e Muso, Bankass (Mali):** 8 centros redesenhados com ventilação natural e energia solar para ~125.000 pessoas.
 
+![Centro de saúde e promoção social (CSPS), Laongo, Burkina Faso. Projeto: Kéré Architecture. Foto: Sierd Hoekstra/Wikimedia Commons, CC BY-SA 4.0.](imagens/burkina-faso-kere-laongo.jpg)
+
 ### Índia
 
 - **Normas IPHS 2022:** Health and Wellness Centre de subcentro para 5.000 pessoas (3.000 em zonas montanhosas, tribais ou desérticas), acesso em até 30 minutos ([Volume IV](https://nhm.hp.gov.in/storage/app/media/uploaded-files/Volume%204_SHC_HWC_UHWC.pdf), pp. 8–14); PHC para 30.000 (planalto) ou 20.000 (montanha) ([IPHS PHC](https://nhsrcindia.org/sites/default/files/PHC%20IPHS_2022_Guideline_pdf.pdf), p. 7).
@@ -360,10 +372,14 @@ Centro de saúde de Masoro (General Architecture Collaborative): 1.000 m² por U
 - **SELCO Foundation:** trata edifício e energia em conjunto. Desenho bioclimático reduziu em 88% o consumo de ventiladores num subcentro, permitindo painéis e baterias menores ([estudos de caso](https://selcofoundation.org/wp-content/uploads/2022/01/Case-studies-Guidelines-for-Sustainability-and-Efficiency-in-Building-Design-Health-24-051.pdf)). Subcentro típico: 700 W de carga, 2 kWh/dia, 1,2–2 kWp ([SELCO India](https://selco-india.com/solutions-services/healthcare/)). Karnataka pretende solarizar 5.000 unidades desde 2024.
 - **Mohalla Clinics (Déli):** ~35 m² por ₹ 15–20 lakh, contra ₹ 3–4 crore de um PHC; parte em contentores reaproveitados e pré-fabricados, transportados por empilhadora ([Business Standard, 2015](https://www.business-standard.com/article/news-ians/mohalla-clinics-taking-healthcare-to-doorsteps-of-poor-115080900429_1.html); [architecture.live](https://architecture.live/mohalla-clinics-delhi-by-architecture-discipline/)). Em 2021, 326 de 520 funcionavam em cabines pré-fabricadas e 166 em imóveis alugados.
 
+![Mohalla Clinic, Déli, Índia (2017): unidade em cabine pré-fabricada. Foto: Rrthakur22/Wikimedia Commons, CC BY-SA 4.0.](imagens/india-mohalla-clinic-delhi.jpg)
+
 ### Bangladesh e Indonésia
 
 - **Bangladesh, community clinics:** 42 m² (2 salas e uma varanda que serve de espera) para ~6.000 pessoas, em terreno de ~200 m² doado pela comunidade. Cerca de 10.000 construídas até 2002 a ~Tk 2,75 lakh cada (~Tk 6.600/m², calc.) ([relatório DFID 2002](https://assets.publishing.service.gov.uk/media/57a08c35ed915d3cfd001236/bang_comm_clinics_web_version.pdf), pp. 3, 20–28). Hoje o doador do terreno assina compromisso em cartório.
 - **Indonésia, Puskesmas:** a norma de 2014 fixa coeficientes urbanísticos (ocupação ≤ 60%, área verde ≥ 15%) e a lista de ambientes, incluindo moradia para pelo menos 2 profissionais ([Permenkes 75/2014, anexo](https://pkm-mpunda.bimakota.go.id//upload/download/b245fcfa736c6c4f9fb221c4867032b9_Lampiran-Permenkes%20No-75%20%20Tahun%202014%20tentang%20Puskesmas.pdf), pp. 3, 9–14).
+
+![Clínica comunitária na zona de Chandpur e Faridganj, Bangladesh (2011). Foto: Asivechowdhury/Wikimedia Commons, CC BY-SA 4.0.](imagens/bangladesh-community-clinic-chandpur.jpg)
 
 ## Modulares e pré-fabricados
 
@@ -504,6 +520,19 @@ O descarregamento direto foi bloqueado para todos os servidores. Os documentos a
 - Custo de Butaro (MASS) e de Léo (Kéré).
 - Avaliação pós-ocupação ou auditoria de manutenção das Clínicas da Família do Rio; relatório OPAS sobre a reforma do Rio; acórdão do TCU sobre UPAs.
 - Diretrizes do CICV e da MSF específicas para centros de saúde (só foram encontradas as de hospital e estruturas temporárias).
+
+## Créditos das imagens
+
+| Figura | Caso | Crédito | Fonte | Licença ou autorização |
+|---|---|---|---|---|
+| 1 | UBS Fluvial de Itupiranga, Brasil | Hallel | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:UBS_Fluvial_de_Itupiranga.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 2 | East Side Clinic, Pueblo, EUA | Jeffrey Beall | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pueblo_Community_Health_Center_East_Side_Clinic.JPG) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| 3 | CESFAM de La Ligua, Chile | Luis Felipe Tapia Yanfka | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chile,_La_Ligua,_Cesfam_(35278148812).jpg) | [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) |
+| 4 | Sede de EBAIS de San Pablo, Costa Rica | Csavil | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:EBAIS_de_San_Pablo_de_Le%C3%B3n_Cort%C3%A9s.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 5 | Posto de saúde de Rugobagoba, Ruanda | Patricia Debinta | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Health_Post_in_Rugobagoba.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 6 | CSPS de Laongo, Burkina Faso (Kéré) | Sierd Hoekstra | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Foto_Sierd_Hoekstra_(6).jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 7 | Mohalla Clinic, Déli, Índia | Rrthakur22 | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohalla_Clinics.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
+| 8 | Clínica comunitária, Bangladesh | Asivechowdhury | [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Local_Community_clinic_01.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) |
 
 ## Fontes principais
 

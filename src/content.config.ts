@@ -8,6 +8,7 @@ export const STUDY_FILES = [
   'sanitation.md',
   'energia.md',
   'governanca.md',
+  'Sistemas de avaliação de estruturas sanitárias.md',
 ];
 
 const toSlug = (entry: string) =>

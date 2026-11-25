@@ -9,6 +9,10 @@ export const STUDY_FILES = [
   'energia.md',
   'governanca.md',
   'Sistemas de avaliação de estruturas sanitárias.md',
+  'Decreto 54-03 - análise.md',
+  'custeio-unidades-csp-estudo-preliminar.md',
+  'Ideal Clinic.md',
+  'Ideal Clinic - apêndice.md',
 ];
 
 const toSlug = (entry: string) =>

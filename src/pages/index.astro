@@ -3,7 +3,8 @@ import Base from '../layouts/Base.astro';
 import PlanDrawing from '../components/PlanDrawing.astro';
 import { getStudies, studyHeader, inlineMd } from '../lib/study';
 
-const studies = (await getStudies()).map((entry, i) => ({
+// Os apêndices têm página própria, mas não aparecem na capa.
+const studies = (await getStudies()).filter((entry) => !/apendice/i.test((entry.filePath ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g, ''))).map((entry, i) => ({
   href: `${import.meta.env.BASE_URL.replace(/\/$/, '')}/${entry.id}/`,
   n: String(i + 1).padStart(2, '0'),
   ...studyHeader(entry.body),
@@ -24,7 +25,7 @@ const studies = (await getStudies()).map((entry, i) => ({
           <a href={s.href}>
             <span class="cover-n">{s.n}</span>
             <span class="cover-body">
-              <span class="cover-byline">{s.byline}</span>
+              <span class="cover-byline" set:html={inlineMd(s.byline, { links: false })} />
               <span class="cover-title">
                 {s.titleMain}{s.titleSub && <em>{s.titleSub}</em>}
               </span>

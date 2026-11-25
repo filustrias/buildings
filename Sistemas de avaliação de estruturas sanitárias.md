@@ -74,53 +74,76 @@ A Guatemala avaliou 45 hospitais em 2015 (2 na categoria A, 33 na B e 10 na C) e
 
 ### 5.1 África do Sul: Ideal Clinic Realisation and Maintenance
 
-**Estrutura.** Dez componentes, 32 subcomponentes e 238 elementos, que têm de estar "verdes", isto é, presentes e a funcionar. Cada elemento é avaliado em verde (cumprido), âmbar (parcialmente cumprido) ou vermelho (não cumprido).
+Este resumo segue o *Ideal Clinic Manual*, versão 19 (julho de 2020), lido na cópia guardada na pasta. As páginas indicadas são as do manual impresso. A análise completa está no estudo próprio, [O instrumento Ideal Clinic](../ideal-clinic/), e a lista dos 238 elementos está no [apêndice](../ideal-clinic-apendice/).
 
-**Pesos.**
+**O que é.** É uma iniciativa do Ministério da Saúde sul-africano, iniciada em julho de 2013, para corrigir de forma sistemática as deficiências das clínicas públicas de cuidados primários identificadas na auditoria nacional de 2012 (p. 1). A ideia é definir com precisão o que uma clínica "ideal" deve ter e fazer, e medir cada clínica contra essa definição todos os anos.
 
-- *Vital não negociável:* elementos que podem causar perda de vida ou recuperação prolongada.
-- *Vital:* exige correção imediata e completa; afeta diretamente a prestação e os cuidados clínicos.
-- *Essencial* e *Importante:* exigem resolução num prazo definido.
+**Estrutura.** O instrumento organiza-se em três níveis, como uma árvore:
 
-**Categorias (versão 19, 2020, p. 17).**
+- **10 componentes**, as grandes áreas: administração, serviços clínicos, medicamentos e laboratório, recursos humanos, serviços de apoio, infraestrutura, informação, comunicação, apoio distrital e parceiros;
+- **33 subcomponentes** dentro deles. A infraestrutura, por exemplo, divide-se em espaço físico e manutenção, equipamento e mobiliário, fornecimentos a granel (água, energia, esgotos) e TIC;
+- **238 elementos**, os itens verificados um a um. Cada elemento é uma afirmação concreta, como "a unidade tem abastecimento de água canalizada funcional".
 
-| Peso (n.º de elementos) | Prata | Ouro | Platina |
+O prefácio fala em 32 subcomponentes, mas a introdução (p. 1), o Anexo 1 e o quadro do Anexo 2 têm 33.
+
+**Como se verifica cada elemento.** Cada elemento indica o método de verificação (p. 144):
+
+- a) verificar documentos (políticas, diretrizes, procedimentos, dados);
+- b) perguntar ao pessoal ou aos utentes;
+- c) observação objetiva;
+- d) testar o funcionamento de equipamentos ou sistemas.
+
+Um plano de manutenção verifica-se pelo método a; um furo ou um gerador, pelo método d.
+
+**Como se pontua.** O quadro de avaliação (Anexo 2, p. 144) usa duas cores: verde (cumprido) ou vermelho (não cumprido). A introdução do manual (p. 2) refere três cores, com âmbar para "parcialmente cumprido"; o quadro, que é o instrumento de pontuação, só usa duas.
+
+- Um elemento sem lista de verificação vale 1 (verde) ou 0 (vermelho).
+- Um elemento com lista de verificação só fica verde se a lista tiver 100%. A exceção são os medicamentos traçadores, que ficam verdes com 90% (p. 144).
+- Se a unidade não presta o serviço, o elemento é marcado "não aplicável".
+
+**Os pesos.** Os 238 elementos não valem o mesmo (p. 145):
+
+| Peso | N.º | O que significa | Exemplos na infraestrutura |
 |---|---|---|---|
-| Vital não negociável (3) | 100% | 100% | 100% |
-| Vital (53) | 60–69% | 70–79% | ≥ 80% |
-| Essencial (104) | 50–59% | 60–69% | ≥ 70% |
-| Importante (78) | 50–59% | 60–69% | ≥ 70% |
+| Vital não negociável | 3 | Falha que pode causar perda de vida ou recuperação prolongada | Carrinho de emergência reposto; cilindro de oxigénio funcional; oxigénio acima do mínimo |
+| Vital | 53 | Exige correção imediata e completa; afeta diretamente os cuidados | Água canalizada, água de emergência, energia de reserva, esgotos, ventilação, plano de manutenção, segurança do edifício |
+| Essencial | 104 | Resolver num prazo definido; afeta indiretamente a qualidade e a segurança | Acesso em cadeira de rodas, espaço suficiente, manutenção conforme o plano |
+| Importante | 78 | Resolver num prazo definido; afeta o ambiente em que se presta o cuidado | Mobiliário intacto, computador, impressora, internet |
 
-Numa versão anterior, a regra era outra: 100% nos vitais, 70% nos essenciais e 65% nos importantes para prata, com categorias prata (70–79%), ouro (80–89%), platina (90–99%) e diamante (100%). Os limiares mudaram entre versões; para citar, convém fixar a versão.
+**Como se obtém a categoria.** A categoria não depende da média global. Depende de cada peso atingir o seu próprio mínimo. O manual avisa que uma unidade pode ter média global de 70 a 99% e não obter categoria (p. 2).
 
-**Componente 6, infraestrutura (versão 19, pp. 14–15).** Elementos ligados ao edifício e aos serviços básicos:
+| Peso | Prata | Ouro | Platina |
+|---|---|---|---|
+| Vital não negociável | 100% | 100% | 100% |
+| Vital | 60–69% | 70–79% | ≥ 80% |
+| Essencial | 50–59% | 60–69% | ≥ 70% |
+| Importante | 50–59% | 60–69% | ≥ 70% |
 
-| Elemento | Peso | Responsável |
-|---|---|---|
-| 181. Espaço acomoda todos os serviços e pessoal | Essencial | Distrito |
-| 182. Ventilação natural ou mecânica funcional nas áreas clínicas | Vital | Distrito |
-| 183. Acesso para cadeira de rodas | Essencial | Distrito |
-| 184. Plano de manutenção de edifícios e terrenos | Vital | Distrito |
-| 185. Edifício mantido conforme o plano | Essencial | Distrito |
-| 186. Edifício cumpre regulamentos de segurança | Vital | Distrito |
-| 188. Equipamento essencial funcional nas salas de consulta | Vital | Unidade |
-| 191. Plano de manutenção do equipamento cumprido | Essencial | Unidade |
-| 193. Carrinho de emergência reposto | Vital não negociável | Unidade |
-| 196–197. Cilindro de oxigénio funcional e acima do mínimo | Vital não negociável | Unidade |
-| 201. Água potável canalizada funcional | Vital | Distrito |
-| 202. Acesso a água de emergência | Vital | Distrito |
-| 203. Fonte de eletricidade de reserva funcional | Vital | Distrito |
-| 204. Sistema de saneamento funcional | Vital | Distrito |
-| 205–208. Telefone, computador, impressora, internet | Essencial / Importante | Distrito ou unidade |
+Exemplo: uma clínica cumpre os 3 não negociáveis, 75% dos vitais, 90% dos essenciais e 95% dos importantes. É **ouro, não platina**, porque os vitais ficaram abaixo de 80%; os bons resultados nos outros pesos não compensam. Se faltasse o oxigénio no dia da avaliação, ficaria **sem categoria**, mesmo com tudo o resto.
 
-Os elementos do edifício, da água, da energia e do saneamento estão atribuídos ao distrito, e não à unidade. A avaliação aponta a responsabilidade a quem tem o orçamento.
+**Quem responde.** Cada elemento indica o nível responsável: unidade, distrito, província ou nacional. Dos 238 elementos, 165 cabem à unidade, 55 ao distrito, 10 à província e 8 ao nível nacional. Os elementos do edifício, da água, da energia e dos esgotos estão atribuídos ao distrito. Isto não tira a responsabilidade ao gestor da clínica: é ele quem sabe que o elemento não está verde e quem deve iniciar os processos junto do distrito para o corrigir (pp. 2–3).
 
-**Resultados.** Num estudo, a espera mediana foi de 63 minutos nas clínicas platina, 71 nas ouro, 63 nas prata e 112 nas que não atingiram categoria: o estatuto não ordena bem a experiência do utente. No Limpopo, a província relata que o programa levou a canalizar recursos para equipamento, plano de manutenção e renovação da infraestrutura.
+**Ciclo de avaliação.** A determinação do estatuto é feita por uma equipa distrital permanente (PPTICRM), que visita todas as unidades pelo menos uma vez por ano e as unidades candidatas a "ideal" pelo menos duas vezes (elemento 222, p. 128). O ciclo anual tem três momentos (Anexo 143, p. 372):
 
-- Quadro, versão 19: https://knowledgehub.health.gov.za/system/files/elibdownloads/2020-08/Ideal%20Clinic%20Framework%20-%20Version%2019%20(July%202020).pdf
+1. avaliação pela equipa distrital em todas as unidades, até 31 de julho;
+2. revisão por pares de outros distritos nas unidades candidatas, entre outubro e novembro;
+3. atualização final até 31 de março nas que falharam.
+
+O gestor da unidade pode fazer a sua própria avaliação para corrigir falhas antes. Depois da primeira avaliação, o software gera um plano de melhoria. O gestor completa-o com atividade, responsável e prazo, discute-o com a equipa, assina-o e atualiza-o todos os trimestres (elemento 31, p. 19). O manual serve também de base à disciplina progressiva dos gestores quando as falhas persistem (p. 3).
+
+**O componente de infraestrutura, em resumo.** O detalhe de cada elemento e das listas de verificação está no estudo próprio. Em resumo:
+
+- **Espaço e edifício (181–186).** O espaço é comparado com uma lista de áreas obrigatórias. A ventilação é observada em salas sorteadas. O acesso em cadeira de rodas é verificado com sete critérios. O estado do edifício é verificado com uma lista de paredes, teto, portas e luzes. A segurança exige certificados de incêndio e elétricos (pp. 104–107; Anexos 119–124).
+- **Equipamento e emergência (187–200).** Inclui as listas de equipamento por sala, a manutenção calendarizada, a sala de reanimação, o carrinho e o oxigénio verificados diariamente, e o registo de bens (pp. 108–114).
+- **Água, energia e esgotos (201–204).** Exige água canalizada e reserva de emergência (depósitos verificados de 15 em 15 dias). Exige energia de reserva por gerador, UPS ou solar, ligada à sala de reanimação e ao frigorífico de vacinas. Exige esgoto funcional, sem obstruções nem fugas (pp. 115–117; Anexo 135).
+- **TIC (205–208).** Telefone, computador, impressora e internet (pp. 118–119).
+
+**Resultados conhecidos.** Em fevereiro de 2023, 55% das unidades públicas tinham o estatuto. Num estudo, a espera mediana foi de 63 minutos nas clínicas platina, 71 nas ouro, 63 nas prata e 112 nas que não atingiram categoria: o estatuto não ordena bem a experiência do utente.
+
 - Manual, versão 19: https://knowledgehub.health.gov.za/system/files/elibdownloads/2020-08/Ideal%20Clinic%20Manual%20-%20Version%2019%20(July%202020).pdf
 - Sistema de monitorização: https://www.idealhealthfacility.org.za
 - Daily Maverick, 2022: https://www.dailymaverick.co.za/article/2022-09-19-healthcare-problems-persist-at-ideal-clinics-studies-show/
+- DA, 2023: https://www.da.org.za/2023/02/only-55-of-health-facilities-have-achieved-ideal-status
 
 ### 5.2 Tanzânia: Star Rating Assessment
 

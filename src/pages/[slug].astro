@@ -35,7 +35,7 @@ const home = import.meta.env.BASE_URL.replace(/\/?$/, '/');
   <section class="hero" id="top">
     <div class="hero-drawing"><PlanDrawing /></div>
     <div class="hero-inner">
-      <p class="hero-byline" data-hero>{byline}</p>
+      <p class="hero-byline" data-hero set:html={inlineMd(byline)} />
       <h1 class={title.length > 70 ? "hero-title is-long" : "hero-title"}>
         <span class="line"><span data-hero-line>{titleMain}</span></span>
         {titleSub && <span class="line sub"><span data-hero-line>{titleSub}</span></span>}
@@ -68,7 +68,7 @@ const home = import.meta.env.BASE_URL.replace(/\/?$/, '/');
   <footer class="footer">
     <div class="footer-inner">
       <span>{title}</span>
-      <span>{byline}</span>
+      <span set:html={inlineMd(byline, { links: false })} />
     </div>
   </footer>
 

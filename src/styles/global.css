@@ -81,7 +81,9 @@ img { max-width: 100%; height: auto; display: block; }
 .plan-marks circle { fill: #e8e2d6; }
 .plan-dim line { stroke: var(--accent); stroke-width: 1; }
 .hero-inner { position: relative; max-width: 1100px; }
-.hero-byline { font-family: var(--f-mono); font-size: 12px; letter-spacing: .04em; color: #a49e93; margin: 0 0 28px; }
+.hero-byline { font-family: var(--f-mono); font-size: 12px; letter-spacing: .04em; color: #a49e93; margin: 0 0 28px; line-height: 1.7; }
+.hero-byline a { color: inherit; text-decoration: underline; text-underline-offset: 3px; }
+.hero-byline strong { font-weight: 500; color: #d8d2c6; }
 .hero-title {
   font-family: var(--f-display); font-weight: 400; margin: 0;
   font-size: clamp(46px, 8.2vw, 132px); line-height: .94; letter-spacing: -.02em;

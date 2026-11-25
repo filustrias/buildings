@@ -32,9 +32,11 @@ export function chapterNumbers(body = '') {
 }
 
 /** Markdown inline mínimo (negrito, itálico, código) para textos do cabeçalho. */
-export function inlineMd(s = '') {
+export function inlineMd(s = '', { links = true } = {}) {
   return s
     .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+    .replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (_, t, u) => (links ? `<a href="${u}">${t}</a>` : t))
+    .replace(/\n/g, '<br>')
     .replace(/`([^`]+)`/g, '<code>$1</code>')
     .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
     .replace(/(^|[^*])\*([^*]+)\*/g, '$1<em>$2</em>');

@@ -21,6 +21,8 @@ A lista completa dos 238 elementos, com peso, método, responsável e lista de v
 
 ## 2. O que é o programa
 
+### 2.1 Origem, definição e enquadramento
+
 **Origem.** O programa foi iniciado pelo Ministério da Saúde em julho de 2013, para melhorar e corrigir de forma sistemática as deficiências das clínicas públicas de cuidados primários identificadas na auditoria nacional de 2012 (p. 1).
 
 **Definição.** Uma clínica ideal é uma clínica com boa infraestrutura, pessoal adequado, medicamentos e materiais suficientes, bons processos administrativos e fornecimentos a granel adequados. Usa as políticas, protocolos e diretrizes clínicas aplicáveis, com o apoio de parceiros, para garantir serviços de qualidade. Coopera com outros departamentos do governo, com o setor privado e com organizações não governamentais para responder aos determinantes sociais da saúde (p. 1).
@@ -34,6 +36,63 @@ A lista completa dos 238 elementos, com peso, método, responsável e lista de v
 - Ajuda os gestores a interpretar o que cada elemento exige e a determinar o seu estado (p. 2).
 - Destina-se sobretudo ao gestor da clínica.
 - Serve também de instrumento de disciplina progressiva: os gestores dos níveis acima usam-no em sessões de aconselhamento e nos passos disciplinares seguintes quando as falhas persistem (p. 3).
+
+### 2.2 Melhoria contínua e conformidade com normas
+
+O HHFA (o inquérito harmonizado da OMS) mede para conhecer. O Ideal Clinic mede para corrigir e para responsabilizar.
+
+Os dois recolhem informação sobre a mesma unidade sanitária, e boa parte do conteúdo sobrepõe-se. Mas só o Ideal Clinic é um instrumento de melhoria contínua, porque só ele tem as quatro peças que fecham o ciclo: uma norma publicada, um método de verificação, um responsável nomeado e uma consequência.
+
+O HHFA tem a segunda peça e não tem as outras três. Isso não é um defeito. Um instrumento que produz estimativas nacionais e comparabilidade internacional tem de ser neutro: não pode fixar limiares normativos, nem atribuir culpas, nem premiar. É o preço da função que desempenha.
+
+### 2.3 As sete peças do instrumento
+
+**A norma e o instrumento de avaliação são o mesmo texto.** O elemento não é uma pergunta sobre a unidade; é o enunciado do que se espera dela. "All external signage in place" é ao mesmo tempo o padrão e o item de verificação. Não há distância entre o que é exigido e o que é verificado, e portanto não há margem para discutir se o que foi medido era o que estava pedido.
+
+**A norma vem com o caminho para a cumprir.** Cada elemento traz um processo numerado que diz ao gestor da unidade o que fazer, passo a passo, e um anexo com o impresso pronto: o cartaz, o registo, o horário de limpeza, o modelo de procedimento (secção 4). Uma norma que diz o que se exige mas não como se cumpre produz incumprimento sem produzir melhoria.
+
+**O avaliador também tem regras.** As notas aos avaliadores dizem o que aceitar e o que recusar. Chegam a especificar que o painel informativo deve estar na parede junto à entrada principal, ou entre 500 e 2000 mm antes dela, e que é aceitável, embora não ideal, que a informação esteja repartida por dois painéis. É isto que faz com que dois avaliadores diferentes cheguem ao mesmo veredicto.
+
+**O veredicto é inequívoco.** Verde ou vermelho. Com lista de verificação, o verde exige 100%, exceto nos medicamentos traçadores, verdes a partir de 90% (p. 144). Não há crédito parcial a negociar (secção 5.2).
+
+**A hierarquia do que importa está publicada.** Quatro pesos, definidos por risco clínico (p. 145): os não negociáveis podem causar perda de vida ou recuperação prolongada; os vitais afetam diretamente o cuidado; os essenciais afetam-no indiretamente; os importantes dizem respeito ao ambiente em que o cuidado é prestado. A categoria exige mínimos **por peso**, não uma média global: uma unidade com 70 a 99% de média pode falhar (p. 2). Ninguém compra um bom resultado acumulando itens fáceis (secções 5.3 e 5.4).
+
+**Cada elemento tem um responsável nomeado.** Nacional, província, distrito ou unidade (p. 144). O acesso a fisioterapia, saúde oral, saúde mental ou apoio farmacêutico está atribuído ao distrito, porque a clínica não contrata estes profissionais. A regra diz quem corrige, não apenas o que falta (secção 5.5).
+
+**O ciclo e a consequência estão no instrumento.** Três determinações por ano (p. 372): a distrital até 31 de julho, a revisão por pares de outro distrito entre outubro e novembro, e a atualização até 31 de março. A que determina o estatuto é feita por quem não tem interesse no resultado. O software gera o plano de melhoria a partir da pontuação, sem passo analítico intermédio. E a consequência existe nos dois sentidos: celebração pública das unidades que atingem o estatuto, e disciplina progressiva onde as fraquezas persistem (secção 6).
+
+### 2.4 O que torna as regras iguais para todos
+
+**O mesmo documento serve os dois lados.** O gestor da unidade e o revisor par têm o mesmo manual. O avaliado sabe de antemão por que critério será julgado e pode autoavaliar-se quando quiser. Isto retira a avaliação do domínio da surpresa.
+
+**A conformidade é demonstrável por exemplo, não por interpretação.** O anexo mostra o impresso correto. Saber se um registo cumpre ou não deixa de ser uma questão de opinião.
+
+**Parte da norma é lei, e está assinalada.** Os elementos a verde no Anexo 2 são os regulados pelas Norms and Standards Regulations de 2018 (p. 144; ver 2.1). O leitor distingue, no mesmo documento, o que é exigência jurídica do que é aspiração programática.
+
+Há ainda uma decisão de desenho contraintuitiva. A responsabilidade é atribuída ao gestor da unidade mesmo em áreas que ele possa julgar fora do seu controlo, porque é ele quem sabe que o elemento não está verde e quem deve desencadear o processo junto do distrito (pp. 2–3). A atribuição de responsabilidade não serve para repartir culpa; serve para garantir que alguém dá o primeiro passo.
+
+### 2.5 O que o modelo custa
+
+**A conformidade de papel.** Listas tudo-ou-nada premeiam a existência do registo e da assinatura. Um elemento como "os profissionais demonstram que leram e compreenderam as políticas recebidas, apondo a sua assinatura" mede a assinatura, não a compreensão.
+
+**A mistura de níveis.** Metas de resultado (sucesso do tratamento da tuberculose, cobertura vacinal, tempo de espera) estão na mesma lista que a sinalética. Uma unidade pode falhar o estatuto por causa de uma placa, ou obtê-lo com resultados fracos mas dentro dos limiares.
+
+**O peso.** São 238 elementos, 143 anexos, três avaliações por ano, uma equipa distrital permanente e uma plataforma informática. Não é um inquérito; é um programa nacional com estrutura própria.
+
+### 2.6 O que serve ao nosso trabalho
+
+A conclusão de fundo é de sequência, não de conteúdo.
+
+O Mapa Sanitário V2 é um instrumento de medição, como o HHFA, e não deve tentar tornar-se um Ideal Clinic. São funções diferentes, e o país precisa primeiro da primeira: não se pode avaliar a conformidade de uma rede que ainda não está descrita.
+
+Mas quatro características do Ideal Clinic são baratas de adotar na ficha em revisão, e resolvem problemas que já temos:
+
+- **Peso por quesito.** A nossa matriz trata todos os quesitos como iguais. Uma hierarquia de risco clínico, publicada, permite dizer o que é grave quando os resultados chegarem.
+- **Nível de responsabilidade por quesito.** Transforma uma lista de ausências numa lista de tarefas atribuídas. Sem isto, o relatório do Mapa Sanitário descreve problemas que ninguém fica encarregado de resolver.
+- **Método de recolha explícito, incluindo o teste de funcionamento.** Já temos a coluna do modo de recolha. Falta-lhe a quarta chave do Ideal Clinic: testar, em vez de perguntar se funciona.
+- **Notas ao inquiridor com a regra de julgamento.** É o que faz com que dois inquiridores em duas províncias registem a mesma realidade da mesma maneira. Sem isto, a comparação entre províncias mede os inquiridores.
+
+Fica a lição maior, para mais tarde. Um programa de conformidade só se sustenta sobre uma base normativa existente. O Ideal Clinic ancora-se nas Norms and Standards Regulations de 2018, e é isso que torna as regras obrigatórias em vez de recomendadas.
 
 ---
 
@@ -211,7 +270,7 @@ Cada elemento indica o nível responsável (p. 144):
 | Província (P) | 10 | Sinalização exterior, contratos de resíduos, memorandos com outros ministérios |
 | Nacional (NDoH) | 8 | Diretrizes nacionais que têm de existir na clínica |
 
-O nível indicado não tira a responsabilidade ao gestor da clínica. O manual diz que foi atribuída ao gestor a responsabilidade por áreas que ele pode julgar fora do seu controlo, porque é ele quem sabe que o elemento não está verde e quem deve iniciar os processos junto do distrito para o corrigir (pp. 2–3).
+O nível indicado não tira a responsabilidade ao gestor da clínica (pp. 2–3; ver 2.4).
 
 Na prática, nos elementos que dependem do distrito, a clínica é avaliada pelo que fez:
 
@@ -437,11 +496,8 @@ Lidos em conjunto, a infraestrutura pesa mais do que os 28 elementos do componen
 1. **Pede funcionamento, plano e pedido, não só existência.** Quase nenhum elemento de infraestrutura pergunta apenas se uma coisa existe. Pede três coisas: que funcione no dia da avaliação (observação ou teste); que haja uma rotina escrita (calendário, folha de controlo); e que a unidade tenha pedido ao nível responsável e acompanhado a resposta.
 2. **Define a manutenção em frequências concretas.** Depósitos de água verificados de 15 em 15 dias, combustível do gerador todos os meses e depois de cada uso, oxigénio todos os dias, carrinho de emergência todos os dias, mobiliário de três em três meses, reparações escaladas ao fim de uma semana, telefone ao fim de três dias.
 3. **Define critérios objetivos onde há margem de interpretação.** Por exemplo: a reserva de água é obrigatória a partir de três interrupções por ano de mais de 4 horas; a energia de reserva tem de chegar à sala de reanimação e ao frigorífico de vacinas; o avaliador não abre os kits estéreis.
-4. **Separa quem responde de quem tem de agir.** O distrito responde pelo edifício, pela água, pela energia e pelos esgotos. A clínica é avaliada pelo que pediu e acompanhou.
-5. **Impede compensação.** Os três não negociáveis e os mínimos por peso impedem que uma clínica bem organizada esconda falhas críticas.
-6. **Está ligado ao ciclo de gestão.** A avaliação gera o plano de melhoria. O plano é ele próprio avaliado. Os resultados vão às reuniões trimestrais do distrito, e o manual serve de base à disciplina progressiva.
-7. **É extenso.** São 238 elementos e 143 anexos. A avaliação exige uma equipa distrital dedicada e um software.
-8. **Não tem avaliação independente.** A avaliação é feita dentro do sistema público (equipa distrital e pares de outros distritos). A verificação independente cabe ao regulador, ao abrigo de outro diploma.
+
+A separação entre quem responde e quem age, a regra contra a compensação, a ligação ao ciclo de gestão e a dimensão do instrumento estão nas secções 2.3 a 2.5 e 5.5. A ausência de avaliação independente está na secção 6.2.
 
 ---
 
@@ -455,7 +511,7 @@ Estes dados vêm de fontes externas ao manual:
   https://www.dailymaverick.co.za/article/2022-09-19-healthcare-problems-persist-at-ideal-clinics-studies-show/
 - No Limpopo, a província relata que o programa levou a canalizar recursos para equipamento segundo a lista do Ideal Clinic, plano de manutenção e renovação da infraestrutura.
   https://www.idealhealthfacility.org.za/App/Document/Download/220
-- Nas inspeções do OHSC, cerca de 4 em 10 unidades públicas passaram em 2022 (ver `governanca.md`, secção 8). O estatuto Ideal Clinic e a conformidade com os regulamentos não são a mesma medida.
+- Nas inspeções do OHSC, cerca de 4 em 10 unidades públicas passaram em 2022 (ver [Governança e legislação](../governanca/), secção 8). O estatuto Ideal Clinic e a conformidade com os regulamentos não são a mesma medida.
 
 ---
 
@@ -467,7 +523,7 @@ Pontos para discussão, ligados aos estudos anteriores:
 2. **Responsável por item.** A atribuição de cada elemento a unidade, distrito, província ou nível nacional corresponde, em Angola, à divisão entre a unidade sanitária, a administração municipal, o governo provincial e o MINSA.
 3. **Critérios para contextos de abastecimento irregular.** As regras sobre a reserva de água e sobre os meios de energia de reserva (gerador, UPS, solar) adaptam-se bem às condições angolanas.
 4. **Equipa distrital dedicada e revisão por pares.** Em Angola, o equivalente seria uma equipa municipal ou provincial. A revisão por pares de outro município seria uma forma barata de verificação cruzada.
-5. **O plano de melhoria como elemento avaliado.** Liga a avaliação ao ciclo de gestão, como o caderno do Bié já faz com responsável e prazo.
+5. **O plano de melhoria como elemento avaliado.** Liga a avaliação ao ciclo de gestão, como o caderno do Bié já faz com responsável e prazo (ver [Sistemas de avaliação](../sistemas-de-avaliacao-de-estruturas-sanitarias/), secção 7).
 6. **Dimensão.** 238 elementos e 143 anexos são muito para começar. Uma versão angolana teria de ser menor e faseada, começando pela infraestrutura e pelos itens de segurança.
 
 ---

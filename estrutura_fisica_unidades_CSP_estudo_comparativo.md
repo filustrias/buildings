@@ -4,9 +4,9 @@ Versão de 19/11/2026 · Adelson Guaraci Jantsch
 
 Não existe norma internacional única de metragem para unidades de cuidados primários: a OMS fixa padrões de condições (água, saneamento, ventilação, resíduos, energia, resiliência) e cada país fixa o programa de áreas. Comparando países, um consultório genérico fica entre 9 e 16 m², a área bruta entre 0,05 e 0,10 m² por pessoa inscrita, e o custo de obra varia de cerca de US$ 330/m² (alvenaria ou terra em África) a mais de US$ 4.000/m² (Europa e EUA).
 
-## Como ler este estudo
+## Sobre este estudo
 
-O estudo cobre unidades de cuidados primários e de base comunitária, de postos de 35 m² a centros de 7.000 m², mais a UPA e o CAPS brasileiros. Hospitais ficaram de fora. O foco é a estrutura física: áreas, água e saneamento, resíduos, energia, ventilação, expansão, ambiência, acessibilidade, custo e financiamento.
+Este estudo inicia uma exploração sobre o que existe internacionalmente, principalmente em países de baixa e média renda, quanto a padrões de construção de unidades de cuidados primários e de base comunitária. Aborda desde postos de 35 m² a centros de 7.000 m², mais as unidades de urgência e emergência e os centros de atenção psicossocial (UPA e CAPS) brasileiros. Hospitais ficaram de fora. O foco é a estrutura física: áreas, água e saneamento, resíduos, energia, ventilação, expansão, ambiência, acessibilidade, custo e financiamento.
 
 **Fiabilidade das páginas.** Na primeira versão, o descarregamento direto dos PDF foi bloqueado e os documentos foram lidos por um leitor web que devolve texto corrido. Nesta versão, os quatro PDF gravados na pasta `buildings` foram lidos página a página (ver a secção "Verificação com os PDF da pasta"). Por isso:
 
@@ -43,14 +43,12 @@ Soma dos ambientes (calc.): cerca de 133 m² sem opcionais e 167 m² com eles, a
 
 ### Água, saneamento e higiene
 
-A referência é [WHO, Essential environmental health standards in health care, 2008](https://nl.ircwash.org/sites/default/files/Adams-2008-Essential.pdf) (EHS 2008).
+A referência é [WHO, Essential environmental health standards in health care, 2008](https://nl.ircwash.org/sites/default/files/Adams-2008-Essential.pdf) (EHS 2008). Volumes, qualidade da água, sanitários e esgoto estão em detalhe em [Água e esgoto](../sanitation/).
 
-- **Quantidade de água** (Tabela 3.1, pp. 29–30): ambulatório 5 L/consulta; internamento 40–60 L/doente/dia; maternidade ou bloco 100 L/intervenção; isolamento respiratório 100 L/doente/dia; febre hemorrágica 300–400 L/doente/dia.
+- **Quantidade de água** (Tabela 3.1, pp. 29–30): ambulatório 5 L/consulta; internamento 40–60 L/doente/dia.
 - **Reserva:** pelo menos 2 dias (ficha WASH FIT, p. 2); a OPAS recomenda 3 dias. A norma indiana IPHS 2022 também exige 3 dias. Volumes de referência no Malawi: dispensário 700 L/dia com 830 L de reserva; centro de saúde 8.400 L/dia com 11.550 L (norma nacional 2024, p. 27).
-- **Qualidade:** zero *E. coli*/100 mL (p. 27); cloro residual livre de 0,5–1,0 mg/L após 30 min (p. 28); água quente abaixo de 20 °C ou acima de 50 °C, por causa de *Legionella* (p. 31).
-- **Sanitários:** no ambulatório, pelo menos 4 (equipa, mulheres, homens, crianças), a no máximo 30 m dos utentes (p. 32); limpeza 2 vezes/dia (p. 33). Ao menos 1 sanitário acessível e 1 com condições para higiene menstrual (indicadores básicos OMS/UNICEF, citados na norma do Malawi, p. 16).
+- **Sanitários:** no ambulatório, pelo menos 4 (equipa, mulheres, homens, crianças), a no máximo 30 m dos utentes (p. 32). Ao menos 1 sanitário acessível e 1 com condições para higiene menstrual (indicadores básicos OMS/UNICEF, citados na norma do Malawi, p. 16).
 - **Higiene das mãos:** ponto de lavagem a até 5 m dos sanitários (WHO 2024, *overview* de unidades resilientes, p. 31).
-- **Esgoto:** infiltração pelo menos 1,5 m acima do lençol freático e 30 m de fontes subterrâneas (EHS 2008, pp. 34–35).
 
 O instrumento de gestão é o [WASH FIT 2022](https://www.washinhcf.org/wp-content/uploads/2023/03/WASH-Fit-2022-SP.pdf): 7 domínios e mais de 90 indicadores pontuados 0/1/2 (p. 12, Quadro 3). O domínio "energia e ambiente" cobre energia de reserva, iluminação, eficiência, ventilação, vetores, águas pluviais e aparência da unidade (p. 12).
 
@@ -64,11 +62,10 @@ O instrumento de gestão é o [WASH FIT 2022](https://www.washinhcf.org/wp-conte
 
 ### Energia
 
-A referência é [Energizing Health (OMS, Banco Mundial, IRENA, SEforALL, 2023)](https://www.seforall.org/system/files/2023-01/energizing_health.pdf).
+A referência é [Energizing Health (OMS, Banco Mundial, IRENA, SEforALL, 2023)](https://www.seforall.org/system/files/2023-01/energizing_health.pdf). Situação, consumo, tecnologias e custos estão em detalhe em [Energia elétrica](../energia/).
 
-- Cerca de 1 bilhão de pessoas são servidas por unidades sem energia ou com energia não confiável (pp. vi, xiii). Na África Subsaariana só cerca de 40% das unidades têm energia confiável (pp. xx–xxi).
-- Unidade de cuidados primários típica (Tabela 3, p. xxx): com equipamento tradicional, 18,4 kWh/dia e carga máxima de 7.870 W; com equipamento eficiente, 10 kWh/dia e 4.620 W, com fotovoltaico de 3,6–6 kW.
-- Equipamento eficiente reduz o consumo em 53–75% por aparelho (p. xxv). Orçamentar operação e manutenção, incluindo troca de baterias, para 10–15 anos (p. xxxix).
+- Unidade de cuidados primários típica (Tabela 3, p. xxx): 18,4 kWh/dia com equipamento tradicional e 10 kWh/dia com equipamento eficiente, com fotovoltaico de 3,6–6 kW.
+- Orçamentar operação e manutenção, incluindo troca de baterias, para 10–15 anos (p. xxxix).
 - Iluminação LED poupa até 79% (ficha WASH FIT, p. 2).
 - Reserva de energia: muitos países dimensionam para 72 h; em Kerala (2018), hospitais ficaram 3 a 9 dias sem energia ([WHO 2020, climate-resilient HCF](https://globalplatform.undrr.org/2022/sites/default/files/2022-04/WHO%20guidance%20for%20climate%20resilient%20and%20environmentally%20sustainable%20health%20care%20facilities.pdf), p. 10, Caixa 2). A tabela 4.4.1A do mesmo guia fixa reserva para **pelo menos 3 dias** de eletricidade, climatização, água e insumos (p. 56).
 - **Intervenções de energia ligadas ao edifício** (WHO 2020, tabelas 4.3.1–4.3.2, pp. 49–53):
@@ -85,17 +82,13 @@ A referência é [Energizing Health (OMS, Banco Mundial, IRENA, SEforALL, 2023)]
 
 ### Ventilação e conforto térmico
 
-A referência é [WHO, Natural ventilation for infection control, 2009](https://depts.washington.edu/edgh/app-ipc/web/project-resources/natural_ventilation.pdf).
+A referência é [WHO, Natural ventilation for infection control, 2009](https://depts.washington.edu/edgh/app-ipc/web/project-resources/natural_ventilation.pdf). Normas, evidência e ar condicionado estão em detalhe em [Ventilação](../ventilacao/).
 
 - **Taxas mínimas, média horária** (pp. xx, 21–22): ambulatório e enfermaria geral 60 L/s/doente; sala de precaução aérea 160 L/s/doente, nunca abaixo de 80; corredores 2,5 L/s/m³.
-- **Hierarquia:** natural primeiro; se não bastar, híbrida; depois mecânica (p. 22). O guia reconhece que a evidência epidemiológica é fraca (p. 22).
 - **Desenho:** ventilação cruzada com aberturas semelhantes em faces opostas; efeito chaminé; corredor lateral, pátio, torre de vento (pp. 33, 45–50). Ventilação de um só lado não garante a taxa (p. 28).
 - **Ordem de grandeza:** sala de 7 × 6 × 3 m com janela e porta abertas dá cerca de 37 renovações/h; com a porta fechada, 4,2 (Tabela 4.1, p. 30).
 - **Calor:** acima de 30 °C a ventilação natural pode tornar-se intolerável; aumentar velocidade do ar e usar arrefecimento evaporativo (pp. 36–37).
 - **Regras do edifício (OMS 2008, Diretriz 9, pp. 42–44):**
-    - implantar e construir tendo em conta o clima local e os ventos dominantes; usar estores, abertura de portas e janelas e vegetação em volta do edifício para melhorar as condições internas (pp. 42–43);
-    - o ar deve entrar pela parte alta da sala e sair junto ao piso, que é a parte mais contaminada (p. 43);
-    - ventiladores de teto e ventiladores portáteis pequenos não são recomendados em áreas de procedimentos, porque espalham poeira (p. 43);
     - luz natural pode bastar em ambulatórios que só funcionam de dia, mas é preciso iluminação para emergências noturnas (p. 43);
     - organizar a unidade em zonas, com fluxo do "limpo" para o "sujo" (p. 44);
     - paredes, pisos e tetos lisos, não porosos e laváveis com água quente e desinfetantes (p. 44);
@@ -111,7 +104,7 @@ A referência é [WHO, Natural ventilation for infection control, 2009](https://
 ### Resiliência climática
 
 - O guia de 2020 organiza as intervenções em 4 componentes (força de trabalho; WASH e resíduos; energia; infraestrutura e produtos) e trata a escolha do terreno como primeira medida (pp. 2, 10).
-- **Água e saneamento** (tabela 4.2.1B, pp. 42–43): reservatórios fora de zona inundável, tapados e ancorados contra vento; válvulas de retenção; águas pluviais geridas sem poças; fossas sépticas seladas e respiros acima da cota de cheia; esvaziar latrinas antes da estação das chuvas. Captação de água da chuva com armazenamento seguro (p. 43); água da chuva ou águas cinzentas para descargas, limpeza de pavimentos e rega (p. 47).
+- **Água e saneamento** (tabela 4.2.1B, pp. 42–43): reservatórios fora de zona inundável; águas pluviais geridas sem poças; fossas sépticas seladas e respiros acima da cota de cheia (ver [Água e esgoto](../sanitation/)).
 - **Implantação e estrutura** (tabela 4.4.1A, pp. 54–56):
     - mapear perigos e evitar costas de alto risco e áreas sujeitas a ciclones, cheias ou subida do mar (p. 55);
     - projetar com base na topografia, histórico de cheias e clima local, e considerar secas, chuvas prolongadas e ondas de calor (p. 55);
@@ -122,7 +115,7 @@ A referência é [WHO, Natural ventilation for infection control, 2009](https://
     - telhados brancos refletivos, bem fixados, isolados e estanques, com drenagem suficiente; em zonas de tempestades tropicais, resistentes a ventos de 175–250 km/h (p. 56).
 - **Calor** (tabela 4.4.1B, p. 57): monitorizar a temperatura interna, sombrear contra o sol direto e aumentar o fluxo de ar em calor extremo.
 - **Sustentabilidade do edifício** (tabelas 4.4.2A–C, pp. 61–63): critérios ambientais nos planos de obra e abordagem de baixo carbono (p. 61); corredores junto às paredes exteriores, para luz natural e ventilação (p. 61); árvores e plantas nativas para sombra em ondas de calor; plantas resistentes à seca; drenagem de águas residuais sem contaminar o entorno (p. 63).
-- **Resíduos:** abandonar a incineração em favor de tecnologias sem queima, como a autoclave; recolha separada por tipo de risco; reciclagem de não perigosos (tabela 4.2.2B, p. 46). Higiene das mãos a até 5 m de todos os sanitários (p. 47).
+- **Resíduos:** abandonar a incineração em favor de tecnologias sem queima, como a autoclave; recolha separada por tipo de risco; reciclagem de não perigosos (tabela 4.2.2B, p. 46).
 - Para unidades pequenas e médias (até cerca de 20 leitos, incluindo cuidados primários) há uma versão do Índice de Segurança com 94 itens (OPAS, Smart Hospitals Toolkit, pp. 9–10).
 
 ## Dimensionamento comparado
@@ -395,7 +388,7 @@ Os pré-fabricados ganham em velocidade (10 a 14 dias de montagem na Ucrânia; 9
 
 Comparação indicativa: o pré-fabricado de Sofala custou cerca de 4 vezes por m² o posto de alvenaria do Ruanda (~US$ 330/m²) e a obra em terra de Kéré em Laongo (~US$ 340/m²). A comparação é imperfeita: diferem ano, país, equipamento incluído e frete. Uma fonte secundária indiana estima o modular em 1,1–1,4 vezes o custo da alvenaria, não confirmado em fonte primária.
 
-O caso de Lelé mostra o principal risco: sem a fábrica ou a equipa que conhece o sistema, a manutenção degrada-se e aparecem desconforto térmico e patologias. Em clima quente, contentores e cabines metálicas exigem isolamento e sombreamento adicionais.
+O caso de Lelé (ver "Outras experiências brasileiras") mostra o principal risco: sem a fábrica ou a equipa que conhece o sistema, a manutenção degrada-se. Em clima quente, contentores e cabines metálicas exigem isolamento e sombreamento adicionais.
 
 ## Custos de construção comparados
 
@@ -454,7 +447,7 @@ Há seis modelos principais. O fator comum nas experiências que falharam não �
 
 - **Contribuições urbanísticas (Reino Unido):** loteamentos novos pagam a ampliação da rede primária que geram (Section 106 e CIL). Em Devon, cerca de £ 405 por habitação ([Devon County Council, 2018](https://middevon.gov.uk/media/356542/id19-devon-cc-health-contributions-spd.pdf), p. 6).
 - **Emendas parlamentares (Brasil):** financiam unidades individuais, como a Clínica da Família do Recreio.
-- **Subsídio solar:** o Nepal subsidia até 65% (máximo US$ 6.500) de sistemas de 1–2 kWp em unidades de saúde (Energizing Health, p. xxxvi); a Gavi financiou solarização de ~1.277 unidades por ~US$ 28 milhões (~US$ 22 mil por unidade, calc.).
+- **Subsídio solar:** o Nepal subsidia até 65% (máximo US$ 6.500) de sistemas de 1–2 kWp em unidades de saúde (Energizing Health, p. xxxvi; ver [Energia elétrica](../energia/)); a Gavi financiou solarização de ~1.277 unidades por ~US$ 28 milhões (~US$ 22 mil por unidade, calc.).
 
 ## Boas práticas por eixo
 

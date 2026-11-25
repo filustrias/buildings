@@ -174,6 +174,8 @@ Percentagens calculadas sobre o total de US$ 27.353 do anexo 5:
 
 ### 6.3 Energia
 
+Ver também [Energia elétrica](../energia/).
+
 | Caso | Valor |
 |---|---|
 | Moçambique (IRENA, 2025), centro rural tipo 2 | 3,2 kWp e 12,8 kWh de bateria (Tabela S3, p. 10); cerca de US$ 6,7 mil por unidade, calculado a partir da Tabela S4 (p. 11) |
@@ -182,6 +184,8 @@ Percentagens calculadas sobre o total de US$ 27.353 do anexo 5:
 | Serra Leoa (SEforALL) | Nos seis primeiros hospitais com solar, o consumo de energia subiu 158% num ano e a dependência do gerador caiu 38% |
 
 ### 6.4 Água, saneamento, higiene e resíduos
+
+Ver também [Água e esgoto](../sanitation/).
 
 | Caso | Valor |
 |---|---|

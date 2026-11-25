@@ -47,7 +47,7 @@ Fonte: [lex.ao, Lei 21-B/92](https://lex.ao/docs/assembleia-do-povo/1992/lei-n-o
 - a demarcação das áreas sanitárias pelas Direções Provinciais em articulação com os Governos Provinciais, e a elaboração do Mapa Sanitário Nacional pelo Ministério da Saúde (art. 7.º, n.os 2 e 6);
 - no art. 17.º, n.º 1, a remissão das "características de infra-estrutura, equipamentos e outros meios materiais" de cada tipologia para diploma próprio.
 
-Não foi encontrado nenhum diploma publicado que cumpra essa remissão. O Decreto 54/03 também não prevê um procedimento de licenciamento ou de aprovação de projeto para as unidades públicas.
+Não foi encontrado nenhum diploma publicado que cumpra essa remissão. O Decreto 54/03 também não prevê um procedimento de licenciamento ou de aprovação de projeto para as unidades públicas. A análise completa do decreto está em [O Decreto n.º 54/03 e a infraestrutura das unidades sanitárias](../decreto-54-03-analise/).
 Fonte: [lex.ao, Decreto 54/03](https://lex.ao/docs/conselho-de-ministros/2003/decreto-n-o-54-03-de-05-de-agosto/)
 
 **Regime Jurídico da Gestão Hospitalar (Decreto Presidencial n.º 260/10).** Inclui no Anexo I as áreas físicas exigidas por tipo de hospital. Por exemplo, fixa o hospital municipal até 70 camas, enfermarias com o máximo de 45 camas e uma casa de banho por cada seis camas. Mostra que o legislador angolano já fixou requisitos físicos por decreto, mas apenas para hospitais. A data exata do diploma não foi confirmada e os anexos foram lidos apenas em parte.
@@ -339,11 +339,11 @@ Fontes: [NHS England, Estates](https://www.england.nhs.uk/estates/), [NHS PAM](h
 - Um desenho único pode não servir clima, terreno ou população diferentes.
 - O projeto-tipo envelhece se não houver revisão periódica.
 
-**Relevância para Angola.** O Decreto 54/03 já define as tipologias e a população de referência. Um conjunto de projetos-tipo por tipologia, eventualmente com variantes climáticas (litoral húmido, planalto, sul árido), seria a peça mais visível de uma reforma e a que mais facilmente se articula com o PIIM.
+**Relevância para Angola.** O Decreto 54/03 já define as tipologias e a população de referência. Um conjunto de projetos-tipo por tipologia, eventualmente com variantes climáticas (litoral húmido, planalto, sul árido), seria a peça mais visível de um novo padrão de construção e a que mais facilmente se articula com o PIIM.
 
 ### 5.5 Avaliação periódica por pontuação ou estrelas
 
-Ver a secção 6, que explica este modelo em detalhe.
+Ver a secção 6, que explica este modelo em detalhe, e o estudo [Sistemas de avaliação de estruturas sanitárias](../sistemas-de-avaliacao-de-estruturas-sanitarias/), que descreve os sistemas de cada país.
 
 **Exemplos.** Star Rating da Tanzânia; inspeções e certificação do OHSC e estatuto Ideal Clinic na África do Sul; inquérito à norma nacional de instituições de saúde na Etiópia; Premises Assurance Model em Inglaterra; Índice de Segurança Hospitalar no Peru e no México.
 
@@ -391,39 +391,13 @@ Em vez de dizer apenas "cumpre" ou "não cumpre", a avaliação atribui a cada u
 - as intermédias recebem um plano de melhoria com prazo;
 - as melhores podem aceder a acreditação ou a pagamentos adicionais.
 
-A diferença em relação ao licenciamento é o objetivo. O licenciamento decide se a unidade pode funcionar. A avaliação por estrelas mede a distância ao padrão e acompanha a melhoria ao longo do tempo. Por isso é usada sobretudo como instrumento de reforma de redes públicas, onde fechar unidades raramente é uma opção.
+A diferença em relação ao licenciamento é o objetivo. O licenciamento decide se a unidade pode funcionar. A avaliação por estrelas mede a distância ao padrão e acompanha a melhoria ao longo do tempo. Por isso é usada sobretudo como instrumento de melhoria de redes públicas, onde fechar unidades raramente é uma opção.
 
 ### 6.2 Tanzânia: Star Rating Assessment
 
-- **Origem.** Foi criada em 2014 pelo Ministério da Saúde, com a Presidência (PO-RALG) e os governos locais, no âmbito da iniciativa *Big Results Now*. O objetivo era avaliar todas as unidades de cuidados primários do país.
-- **Estrutura.** São 12 áreas de serviço:
-  - licenciamento, gestão, uso de dados e desempenho do pessoal;
-  - organização dos serviços, emergência e referenciação;
-  - foco no utente e responsabilização social;
-  - infraestrutura, prevenção e controlo de infeção, serviços clínicos e serviços de apoio clínico.
+Criada em 2014 pelo Ministério da Saúde, com a Presidência (PO-RALG) e os governos locais, no âmbito da iniciativa *Big Results Now*, para avaliar todas as unidades de cuidados primários do país. São 12 áreas de serviço; a infraestrutura pesa 10%. Unidades abaixo de 20% em qualquer domínio são consideradas inseguras, e recomenda-se o seu encerramento. As unidades públicas com pior desempenho receberam 10 milhões de xelins cada para itens dispendiosos, o que pode explicar parte da melhoria. As unidades com três estrelas ou mais passaram de 2% para 21% em 18 meses. Desde 2015 houve apenas duas rondas, quando se previa uma a cada um ou dois anos.
 
-  Cada área pesa entre 5% e 15%.
-- **Infraestrutura.** A área pesa 10% e avalia:
-  - a manutenção preventiva planeada;
-  - o estado dos edifícios;
-  - a eletricidade e a água;
-  - a acessibilidade para pessoas com deficiência;
-  - o mobiliário e o equipamento nos pontos de prestação.
-- **Regras de classificação.** Unidades com 60% ou mais nos quatro grandes domínios são consideradas de bom desempenho. Unidades abaixo de 20% em qualquer domínio são consideradas inseguras, e recomenda-se o seu encerramento. A meta era que 80% das unidades tivessem pelo menos três estrelas até 2017/18. O artigo consultado não explica como as percentagens se convertem em estrelas.
-- **Consequências.**
-  - As unidades tinham de apresentar planos de melhoria da qualidade, e eram penalizadas se não o fizessem.
-  - As unidades públicas com pior desempenho receberam 10 milhões de xelins cada para itens dispendiosos.
-  - Os resultados foram integrados nos planos de saúde dos distritos.
-  - Estava prevista a ligação aos pagamentos do seguro e a um sistema gradual de acreditação.
-- **Gestão.** Os dados são compilados ao nível distrital, e a base nacional é gerida pela unidade de garantia da qualidade do Ministério. As equipas distritais de gestão fazem supervisão trimestral.
-- **Resultados.** Numa análise de 1.908 unidades de 8 regiões, a adesão mediana às normas de prevenção de infeção passou de 31% para 57% entre a linha de base (2015/16) e a reavaliação (2017/18). Segundo outra fonte, as unidades com três estrelas ou mais passaram de 2% para 21% em 18 meses.
-- **Limitações.**
-  - O desenho é antes e depois, sem grupo de controlo.
-  - O financiamento dado só às unidades públicas pode explicar parte da melhoria.
-  - Três autores pertenciam à unidade que implementava a avaliação.
-  - As ferramentas estavam em inglês e não em kiswahili.
-  - Desde 2015 houve apenas duas rondas, quando se previa uma a cada um ou dois anos.
-  - Não há dados sobre encerramentos efetivos.
+A descrição completa (domínios, regra das estrelas, consequências, resultados e limitações) está em [Sistemas de avaliação de estruturas sanitárias](../sistemas-de-avaliacao-de-estruturas-sanitarias/), secção 5.2.
 
 Fontes: [Kinyenje et al., 2020, PMC7311348](https://pmc.ncbi.nlm.nih.gov/articles/PMC7311348), [MSH, 2019](https://msh.org/wp-content/uploads/2019/05/tssp_tech_highlight_star_rating_051519.pdf)
 
@@ -461,7 +435,7 @@ Fonte: [Tama et al., 2022, IJHPM 11(9):1852–1862](https://www.ijhpm.com/articl
 
 ### 6.4 Outros exemplos
 
-- **África do Sul.** O OHSC inspecionou 3.093 das 3.741 unidades públicas entre 2019 e 2023. Em paralelo, o programa Ideal Clinic atribui um estatuto às clínicas que cumprem uma lista de elementos; em fevereiro de 2023, 55% das unidades públicas tinham esse estatuto.
+- **África do Sul.** O OHSC inspecionou 3.093 das 3.741 unidades públicas entre 2019 e 2023. Em paralelo, o programa Ideal Clinic atribui um estatuto às clínicas que cumprem uma lista de elementos; em fevereiro de 2023, 55% das unidades públicas tinham esse estatuto (ver [O instrumento Ideal Clinic](../ideal-clinic/)).
   Fontes: [TimesLive, 2025](https://www.timeslive.co.za/sunday-times-daily/news/2025-08-15-unsafe-and-substandard-is-that-what-public-health-care-in-sa-looks-like/), [DA, 2023](https://www.da.org.za/2023/02/only-55-of-health-facilities-have-achieved-ideal-status)
 - **Etiópia.** Em 2026, o Ministério da Saúde, o Instituto Etíope de Normalização e o serviço de acreditação aplicaram em conjunto um inquérito à norma nacional de instituições de saúde em 2.701 instituições. Mais de 82% não cumpriam, e só 21 de 565 centros de saúde públicos cumpriam integralmente.
   Fonte: [allAfrica/The Reporter, agosto de 2026](https://allafrica.com/stories/202608190449.html)
@@ -561,10 +535,7 @@ Em Moçambique, uma análise publicada pelo CONASS nota que a fiscalização é 
 Fonte: [CONASS, 2025](https://www.conass.org.br/biblioteca/wp-content/uploads/2025/04/11-Experiencia-e-desafios-de-Regulacao-em-saude-em-Mocambique.pdf)
 
 **3. A inspeção existe, mas os sistemas à volta dela falham.**
-O estudo qualitativo do Quénia (Tama et al., 2022) conclui que o efeito da inspeção depende do licenciamento, da execução dos encerramentos e do financiamento. Quando um destes falha, a inspeção perde força.
-- O licenciamento era caro, lento e multiplicado por várias agências.
-- Os encerramentos não eram executados por falta de funções definidas, de transporte e por conflitos de interesse.
-- As unidades públicas não tinham orçamento próprio para corrigir o que a inspeção apontava.
+O estudo qualitativo do Quénia (Tama et al., 2022) conclui que o efeito da inspeção depende do licenciamento, da execução dos encerramentos e do financiamento. Quando um destes falha, a inspeção perde força. O licenciamento era, além disso, multiplicado por várias agências. Os obstáculos estão descritos na secção 6.3.
 
 **4. A manutenção não tem orçamento nem pessoal.**
 A falta de manutenção aparece como problema em Angola (PNS 2010; PNDS, p. 11), Moçambique, Quénia, Filipinas e no projeto Smart Hospitals das Caraíbas. Um estudo em 34 unidades rurais do Níger descreve os obstáculos: falta de financiamento para contratar e formar pessoal de manutenção, ausência de planeamento e dificuldade em obter peças de substituição nas zonas rurais.
@@ -578,7 +549,7 @@ Fonte: [Tantum et al., 2024, Environmental Health Insights](https://doaj.org/art
 Fonte: [Inquirer, COA](https://newsinfo.inquirer.net/2329042/coa-flags-deficiencies-in-p17-b-doh-infra-projects)
 
 **6. Os dados de acompanhamento das obras são frágeis.**
-No Brasil, o TCU encontrou registos errados no sistema de monitorização de obras, incluindo financiamento de obra nova para unidades que já existiam. Sem registo fiável, o financiamento condicionado perde capacidade de controlo.
+No Brasil, o TCU encontrou registos errados no sistema de monitorização de obras (secção 4.4). Sem registo fiável, o financiamento condicionado perde capacidade de controlo.
 
 **7. Os desenhos-tipo são caros demais para a escala necessária.**
 No Gana, o desenho-padrão dos CHPS foi apontado como uma das razões para haver milhares de zonas sem *compound*.
@@ -595,7 +566,7 @@ Nenhum país tem conformidade elevada na rede pública de cuidados primários. O
 - **Dinheiro para corrigir, associado ao resultado da avaliação.** Exemplos: as transferências para as piores unidades na Tanzânia e a quota de infraestrutura do fundo nigeriano.
 - **Controlo no momento da obra, e não só depois.** Exemplos: aprovação prévia de projeto no Brasil e desenhos-padrão como condição de financiamento no Uganda.
 
-A melhoria registada é modesta e lenta: de 2% para 21% de unidades com três estrelas na Tanzânia, de 35% para 41% de pontuação no Quénia. Uma reforma em Angola deve contar com um horizonte de vários anos e com rondas de avaliação repetidas, mais do que com um efeito imediato da publicação da norma.
+A melhoria registada é modesta e lenta: de 2% para 21% de unidades com três estrelas na Tanzânia, de 35% para 41% de pontuação no Quénia. Em Angola, a melhoria deve contar com um horizonte de vários anos e com rondas de avaliação repetidas, mais do que com um efeito imediato da publicação da norma.
 
 ---
 

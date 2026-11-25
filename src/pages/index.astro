@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import PlanDrawing from '../components/PlanDrawing.astro';
 import { getStudies, studyHeader, inlineMd } from '../lib/study';
+import { Content as Apresentacao } from '../../apresentacao.md';
 
 // Os apêndices têm página própria, mas não aparecem na capa.
 const studies = (await getStudies()).filter((entry) => !/apendice/i.test((entry.filePath ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g, ''))).map((entry, i) => ({
@@ -19,6 +20,8 @@ const studies = (await getStudies()).filter((entry) => !/apendice/i.test((entry.
 
   <main class="cover">
     <div class="hero-drawing cover-drawing"><PlanDrawing /></div>
+    <div class="cover-content">
+    <div class="cover-intro" data-cover-item><Apresentacao /></div>
     <ol class="cover-list">
       {studies.map((s) => (
         <li class="cover-item" data-cover-item>
@@ -36,6 +39,7 @@ const studies = (await getStudies()).filter((entry) => !/apendice/i.test((entry.
         </li>
       ))}
     </ol>
+    </div>
   </main>
 
   <script>

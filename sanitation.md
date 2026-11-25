@@ -10,8 +10,6 @@ O estudo cobre o abastecimento de água e o esgoto de unidades de saúde na comu
 
 **Custos.** Mantêm-se na moeda e no ano da fonte; os valores marcados (calc.) foram calculados aqui a partir da própria fonte.
 
-**Imagens.** As imagens não podem ser descarregadas desta sessão para dentro do documento. A secção de imagens aponta para as páginas de origem, onde podem ser vistas.
-
 ## Situação global
 
 Em 2022, 78% das unidades de saúde do mundo tinham serviço básico de água, e cerca de 9% não tinham serviço nenhum, afetando ~743 milhões de pessoas. Na África Subsaariana, em 2023, só 60% tinham água básica e 22% saneamento básico. As unidades não hospitalares e as rurais têm cobertura mais baixa que os hospitais e as urbanas. Fonte principal: [JMP 2024, OMS/UNICEF](https://washdata.org/reports/jmp-2024-wash-hcf) ([PDF](https://washdata.org/report/jmp-2024-wash-hcf-0)), com dados até 2023 e foco nos cuidados primários.
@@ -36,7 +34,7 @@ Em 2022, 78% das unidades de saúde do mundo tinham serviço básico de água, e
 - **Hospitais à frente.** Na água, o hospital tem melhor cobertura em 35 países, 16 deles com diferença acima de 20 pontos; na Costa do Marfim, 79% contra 24% (pp. 6–7). No saneamento, na Etiópia, 57% contra 3% (pp. 17–18). Os postos de saúde e outras unidades pequenas têm a cobertura mais baixa (pp. 51–52).
 - **Urbano à frente.** Na água, a cobertura urbana é maior em 28 casos, 17 deles com diferença acima de 20 pontos (p. 7).
 - **Contextos frágeis (60 países):** 37% sem água básica e 19% com saneamento básico (p. viii).
-- **Energia, que condiciona a bombagem:** 433 milhões de pessoas são servidas por unidades sem eletricidade e 478 milhões por unidades com fornecimento não fiável ([Relatório global 2025](https://www.washinhcf.org/wp-content/uploads/2025/09/Global-progress-report-on-WASH-waste-electricity-in-HCF-2025.pdf), pp. ix, 11).
+- **Energia, que condiciona a bombagem:** 433 milhões de pessoas são servidas por unidades sem eletricidade e 478 milhões por unidades com fornecimento não fiável ([Relatório global 2025](https://www.washinhcf.org/wp-content/uploads/2025/09/Global-progress-report-on-WASH-waste-electricity-in-HCF-2025.pdf), pp. ix, 11; ver [Energia elétrica](../energia/)).
 
 ### Compromissos e metas
 
@@ -313,16 +311,12 @@ Em áreas áridas, o problema central é a fonte: água escassa, salobra ou dist
   - saneamento básico em 1,1% (p. 21); em Agadez, 57% das latrinas são melhoradas, mas nenhuma está utilizável (p. 23);
   - higiene das mãos completa em 15,1% (p. 17);
   - 61% das unidades de Agadez sem fonte de energia (p. 33).
-- **Mali:** a água bombeada a energia solar custa cerca de USD 0,08/m³, contra 0,44 com diesel e 0,20 com sistema híbrido ([UNICEF/SuSanA](https://susana.org/_resources/documents/default/3-4162-7-1617109686.pdf), p. 15).
-
-O caso de Agadez mostra que latrina construída não é latrina usada: sem água, limpeza e manutenção, a infraestrutura deixa de servir.
+- **Mali:** custo da água bombeada a energia solar, ver "Solar contra diesel".
 
 ### Semiárido brasileiro
 
 - **Cisterna de placas de 16 m³ (Programa Cisternas):** valor de referência de R$ 5.803 a R$ 6.908 por unidade em 2023 ([IN SESAN/MDS n.º 9/2023](https://www.gov.br/mds/pt-br/acoes-e-programas/inclusao-produtiva-rural/acesso-a-agua-1/InstruoNormativaSESAN_MDSn9de3demarode2023Cisternadeplacasde16millitros.pdf), p. 2). O programa também tem cisterna escolar de 52 m³, barragem subterrânea e reúso de água cinzenta domiciliar ([cartilha 2026](https://www.gov.br/mds/pt-br/acoes-e-programas/acesso-a-alimentos-e-a-agua/programa-cisternas/manuais-e-outras-publicacoes/documentos-de-referencia/cartilhas/sesan_cartilha_cisternas_2026_v-03_digital-02.pdf)). Não menciona unidades de saúde.
 - **Programa Água Doce:** 936 dessalinizadores por osmose reversa (2004–2023) para ~225 mil pessoas. Critérios: pelo menos 20 famílias num raio de 1 km, poço salobro, rede elétrica e área de 40 × 40 m ([MDR](https://www.gov.br/mdr/pt-br/assuntos/seguranca-hidrica/programa-agua-doce/QUALIFICACAO_DE_DEMANDAS___PROGRAMA_AGUA_DOCE.pdf)). Em Manari (PE, 2021), R$ 1,7 milhão para 8 sistemas e 608 famílias, cerca de R$ 212 mil por sistema (calc.) ([Brasil de Fato](https://www.brasildefato.com.br/2021/01/04/no-sertao-de-pernambuco-manari-e-primeira-cidade-a-receber-sistema-de-dessalinizacao)). Não há referência a postos de saúde.
-
-Os dois programas têm tecnologia, custo e escala, mas não incluem unidades de saúde. A cisterna escolar de 52 m³ é o modelo mais próximo de uma cisterna institucional para uma UBS rural.
 
 ### Barragens de areia
 
@@ -374,25 +368,14 @@ O estudo de referência é Chaitkin et al. (*Lancet Global Health*, 2022). Para 
 | Esgoto: fossa séptica | USD 12.000 | USD 855 |
 | Gestão de resíduos | USD 10.159 | USD 1.750 |
 
+Os valores de captação de chuva, bombas, cloração e saneamento por unidade estão nas tabelas das secções de água e de esgoto.
+
 ### Solar contra diesel
 
 - No Mali, a água bombeada a energia solar custa ~USD 0,08/m³, contra 0,44 com diesel e 0,20 com sistema híbrido ([UNICEF/SuSanA](https://susana.org/_resources/documents/default/3-4162-7-1617109686.pdf), p. 15).
 - O sistema solar custa 12–42% mais que o diesel na instalação, mas o diesel gasta USD 300–500 por mês para ~1.000 pessoas, e o solar paga-se em 4–6 anos (mesma fonte, p. 16). O Banco Mundial calcula ciclo de vida 36% mais barato e retorno em 3,6 anos ([Solar Pumping 2018](https://openknowledge.worldbank.org/server/api/core/bitstreams/4b15ff25-39f1-5d39-bbe4-f6f23cc6cba4/content), pp. 24–25).
 - Custo médio por sistema solar UNICEF: USD 20.583 (Nigéria), 21.000 (Mauritânia), 27.261 (Mianmar), 71.709 (Uganda); USD 8–70 por beneficiário (UNICEF/SuSanA, pp. 15–16).
 - Na Etiópia, 38 sistemas solarizados poupam USD 101,8 milhões em 15 anos, USD 25,8 por dólar investido ([UNICEF](https://knowledge.unicef.org/resource/wash-results-paper-economic-impact-solar-powered-water-systems-ethiopia)).
-
-### Outros valores de referência
-
-| Solução | Custo | Contexto | Fonte |
-| --- | --- | --- | --- |
-| Conduta contra camião-cisterna | USD 6 → USD 0,30 por barril | Somália, 2025 | [IMC](https://internationalmedicalcorps.org.uk/story/promoting-sustainability-in-somalia/) |
-| Rede de água e esgoto contra camião | até 66% de poupança | Zaatari, 2018 | [UNICEF Jordânia](https://www.unicef.org/jordan/press-releases/environment-friendly-and-cost-efficient-water-and-sanitation-network-zaatari-camp) |
-| Furo novo em comunidade remota | ~AUD 35.000 | Austrália, 2014 | [New Matilda](https://newmatilda.com/2014/09/16/three-months-without-water-means-health-crisis-growing-utopia-community/) |
-| Tanques de chuva para 17 descargas | AUD 50.000; retorno de 44 anos | Castlemaine, Austrália | [Department of Health Victoria](https://www2.health.vic.gov.au/sites/default/files/migrated/files/collections/research-and-reports/g/greening-castlemaine---pdf.pdf) |
-| Reforma com captação de chuva | R$ 1,4 milhão (reforma inteira) | Santo André, 2026 | [DGABC](https://www.dgabc.com.br/Noticia/4294920/santo-andre-inaugura-1-unidade-basica-sustentavel-do-brasil) |
-| Sistema DEWATS hospitalar, 100 m³/dia | EUR 96.000 | Dar es Salaam | [GRID-Arendal](https://files.grida.no/wp-content/uploads/2023/08/SickWater_CS-6.pdf) |
-
-Os valores de captação de chuva, bombas, cloração e saneamento por unidade estão nas tabelas das secções de água e de esgoto.
 
 ### Modelos de financiamento encontrados
 
@@ -404,8 +387,6 @@ Os valores de captação de chuva, bombas, cloração e saneamento por unidade e
 | Fundo local de manutenção | Malawi: comité com fundo para reparações da rede solar de Chimaliro |
 | Programas nacionais de água não ligados à saúde | Brasil: Programa Cisternas e Água Doce, ainda sem unidades de saúde |
 | Recursos do Ministério da Saúde em obra de UBS | Brasil: Santo André, com o custo da parte hídrica não separado |
-
-Só 17% dos países declaram ter financiamento suficiente para WASH nas unidades de saúde (Relatório global 2025, p. 23).
 
 ## Operação e manutenção
 
@@ -494,7 +475,7 @@ Se quiser as fotos dentro do documento, pode descarregá-las destas páginas par
 | Tese UFMG sobre água pluvial em EAS | Endereço longo demais para o proxy | repositório UFMG |
 | ABNT NBR 15527, 16783, 5626, 13969 | Textos pagos; não consultados | https://www.abntcatalogo.com.br |
 
-As páginas das fontes fora da pasta `buildings` foram identificadas por leitor web e não estão conferidas no PDF. Se gravar na pasta o JMP 2024, o WASH FIT 2022, o Compendium Eawag e a RDC 50, posso conferi-las.
+Se gravar na pasta `buildings` o JMP 2024, o WASH FIT 2022, o Compendium Eawag e a RDC 50, posso conferir as páginas citadas.
 
 ## Fontes
 

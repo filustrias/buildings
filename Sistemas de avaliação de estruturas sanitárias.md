@@ -4,7 +4,7 @@ Versão de 25/11/2026 · Adelson Guaraci Jantsch
 
 ## 1. Âmbito e método
 
-Este documento descreve os sistemas usados em vários países para avaliar periodicamente as unidades sanitárias, com atenção à infraestrutura das unidades de cuidados de saúde primários. Completa a secção 6 do estudo `governanca.md`, que tratava a avaliação periódica por estrelas como um dos seis modelos de governança.
+Este documento descreve os sistemas usados em vários países para avaliar periodicamente as unidades sanitárias, com atenção à infraestrutura das unidades de cuidados de saúde primários. Completa a secção 6 do estudo [Governança e legislação](../governanca/), que tratava a avaliação periódica por estrelas como um dos seis modelos de governança.
 
 A pesquisa foi feita com pesquisa e leitura na web. As páginas, artigos e números citados foram lidos online e não verificados em cópia local. Vários documentos foram lidos apenas em parte; isso está assinalado. Onde não foi possível confirmar um dado, escreve-se "não confirmado" ou "não verificado".
 
@@ -78,28 +78,9 @@ Este resumo segue o *Ideal Clinic Manual*, versão 19 (julho de 2020), lido na c
 
 **O que é.** É uma iniciativa do Ministério da Saúde sul-africano, iniciada em julho de 2013, para corrigir de forma sistemática as deficiências das clínicas públicas de cuidados primários identificadas na auditoria nacional de 2012 (p. 1). A ideia é definir com precisão o que uma clínica "ideal" deve ter e fazer, e medir cada clínica contra essa definição todos os anos.
 
-**Estrutura.** O instrumento organiza-se em três níveis, como uma árvore:
+**Estrutura.** 10 componentes, 33 subcomponentes e 238 elementos, os itens verificados um a um (ver [O instrumento Ideal Clinic](../ideal-clinic/), secção 3). Cada elemento indica o método de verificação: documentos (a), pergunta (b), observação (c) ou teste de funcionamento (d) (p. 144). Um plano de manutenção verifica-se pelo método a; um furo ou um gerador, pelo método d.
 
-- **10 componentes**, as grandes áreas: administração, serviços clínicos, medicamentos e laboratório, recursos humanos, serviços de apoio, infraestrutura, informação, comunicação, apoio distrital e parceiros;
-- **33 subcomponentes** dentro deles. A infraestrutura, por exemplo, divide-se em espaço físico e manutenção, equipamento e mobiliário, fornecimentos a granel (água, energia, esgotos) e TIC;
-- **238 elementos**, os itens verificados um a um. Cada elemento é uma afirmação concreta, como "a unidade tem abastecimento de água canalizada funcional".
-
-O prefácio fala em 32 subcomponentes, mas a introdução (p. 1), o Anexo 1 e o quadro do Anexo 2 têm 33.
-
-**Como se verifica cada elemento.** Cada elemento indica o método de verificação (p. 144):
-
-- a) verificar documentos (políticas, diretrizes, procedimentos, dados);
-- b) perguntar ao pessoal ou aos utentes;
-- c) observação objetiva;
-- d) testar o funcionamento de equipamentos ou sistemas.
-
-Um plano de manutenção verifica-se pelo método a; um furo ou um gerador, pelo método d.
-
-**Como se pontua.** O quadro de avaliação (Anexo 2, p. 144) usa duas cores: verde (cumprido) ou vermelho (não cumprido). A introdução do manual (p. 2) refere três cores, com âmbar para "parcialmente cumprido"; o quadro, que é o instrumento de pontuação, só usa duas.
-
-- Um elemento sem lista de verificação vale 1 (verde) ou 0 (vermelho).
-- Um elemento com lista de verificação só fica verde se a lista tiver 100%. A exceção são os medicamentos traçadores, que ficam verdes com 90% (p. 144).
-- Se a unidade não presta o serviço, o elemento é marcado "não aplicável".
+**Como se pontua.** Verde (cumprido) ou vermelho (não cumprido). Um elemento com lista de verificação só fica verde se a lista tiver 100%, exceto os medicamentos traçadores, verdes com 90% (p. 144). As regras completas estão na secção 5.2 do estudo próprio.
 
 **Os pesos.** Os 238 elementos não valem o mesmo (p. 145):
 
@@ -110,33 +91,11 @@ Um plano de manutenção verifica-se pelo método a; um furo ou um gerador, pelo
 | Essencial | 104 | Resolver num prazo definido; afeta indiretamente a qualidade e a segurança | Acesso em cadeira de rodas, espaço suficiente, manutenção conforme o plano |
 | Importante | 78 | Resolver num prazo definido; afeta o ambiente em que se presta o cuidado | Mobiliário intacto, computador, impressora, internet |
 
-**Como se obtém a categoria.** A categoria não depende da média global. Depende de cada peso atingir o seu próprio mínimo. O manual avisa que uma unidade pode ter média global de 70 a 99% e não obter categoria (p. 2).
+**Como se obtém a categoria.** A categoria (prata, ouro, platina) não depende da média global. Depende de cada peso atingir o seu próprio mínimo, e os 3 não negociáveis têm de estar a 100%. O manual avisa que uma unidade pode ter média global de 70 a 99% e não obter categoria (p. 2). Os limiares e exemplos estão na secção 5.4 do estudo próprio.
 
-| Peso | Prata | Ouro | Platina |
-|---|---|---|---|
-| Vital não negociável | 100% | 100% | 100% |
-| Vital | 60–69% | 70–79% | ≥ 80% |
-| Essencial | 50–59% | 60–69% | ≥ 70% |
-| Importante | 50–59% | 60–69% | ≥ 70% |
+**Quem responde.** Dos 238 elementos, 165 cabem à unidade, 55 ao distrito, 10 à província e 8 ao nível nacional. Os elementos do edifício, da água, da energia e dos esgotos estão atribuídos ao distrito. Isto não tira a responsabilidade ao gestor da clínica (pp. 2–3).
 
-Exemplo: uma clínica cumpre os 3 não negociáveis, 75% dos vitais, 90% dos essenciais e 95% dos importantes. É **ouro, não platina**, porque os vitais ficaram abaixo de 80%; os bons resultados nos outros pesos não compensam. Se faltasse o oxigénio no dia da avaliação, ficaria **sem categoria**, mesmo com tudo o resto.
-
-**Quem responde.** Cada elemento indica o nível responsável: unidade, distrito, província ou nacional. Dos 238 elementos, 165 cabem à unidade, 55 ao distrito, 10 à província e 8 ao nível nacional. Os elementos do edifício, da água, da energia e dos esgotos estão atribuídos ao distrito. Isto não tira a responsabilidade ao gestor da clínica: é ele quem sabe que o elemento não está verde e quem deve iniciar os processos junto do distrito para o corrigir (pp. 2–3).
-
-**Ciclo de avaliação.** A determinação do estatuto é feita por uma equipa distrital permanente (PPTICRM), que visita todas as unidades pelo menos uma vez por ano e as unidades candidatas a "ideal" pelo menos duas vezes (elemento 222, p. 128). O ciclo anual tem três momentos (Anexo 143, p. 372):
-
-1. avaliação pela equipa distrital em todas as unidades, até 31 de julho;
-2. revisão por pares de outros distritos nas unidades candidatas, entre outubro e novembro;
-3. atualização final até 31 de março nas que falharam.
-
-O gestor da unidade pode fazer a sua própria avaliação para corrigir falhas antes. Depois da primeira avaliação, o software gera um plano de melhoria. O gestor completa-o com atividade, responsável e prazo, discute-o com a equipa, assina-o e atualiza-o todos os trimestres (elemento 31, p. 19). O manual serve também de base à disciplina progressiva dos gestores quando as falhas persistem (p. 3).
-
-**O componente de infraestrutura, em resumo.** O detalhe de cada elemento e das listas de verificação está no estudo próprio. Em resumo:
-
-- **Espaço e edifício (181–186).** O espaço é comparado com uma lista de áreas obrigatórias. A ventilação é observada em salas sorteadas. O acesso em cadeira de rodas é verificado com sete critérios. O estado do edifício é verificado com uma lista de paredes, teto, portas e luzes. A segurança exige certificados de incêndio e elétricos (pp. 104–107; Anexos 119–124).
-- **Equipamento e emergência (187–200).** Inclui as listas de equipamento por sala, a manutenção calendarizada, a sala de reanimação, o carrinho e o oxigénio verificados diariamente, e o registo de bens (pp. 108–114).
-- **Água, energia e esgotos (201–204).** Exige água canalizada e reserva de emergência (depósitos verificados de 15 em 15 dias). Exige energia de reserva por gerador, UPS ou solar, ligada à sala de reanimação e ao frigorífico de vacinas. Exige esgoto funcional, sem obstruções nem fugas (pp. 115–117; Anexo 135).
-- **TIC (205–208).** Telefone, computador, impressora e internet (pp. 118–119).
+**Ciclo de avaliação.** Uma equipa distrital permanente (PPTICRM) avalia todas as unidades até 31 de julho; pares de outros distritos revêm as candidatas entre outubro e novembro; a atualização final das que falharam é feita até 31 de março (elemento 222, p. 128; Anexo 143, p. 372). Depois da primeira avaliação, o software gera um plano de melhoria (elemento 31, p. 19). O detalhe do ciclo está na secção 6 do estudo próprio, e o do componente de infraestrutura na secção 7.
 
 **Resultados conhecidos.** Em fevereiro de 2023, 55% das unidades públicas tinham o estatuto. Num estudo, a espera mediana foi de 63 minutos nas clínicas platina, 71 nas ouro, 63 nas prata e 112 nas que não atingiram categoria: o estatuto não ordena bem a experiência do utente.
 
@@ -155,6 +114,8 @@ O gestor da unidade pode fazer a sua própria avaliação para corrigir falhas a
 2. cartas de serviço e responsabilização social;
 3. ambientes seguros e propícios;
 4. qualidade dos cuidados e dos serviços.
+
+As 12 áreas de serviço são: licenciamento, gestão, uso de dados e desempenho do pessoal; organização dos serviços, emergência e referenciação; foco no utente e responsabilização social; infraestrutura, prevenção e controlo de infeção, serviços clínicos e serviços de apoio clínico. Cada área pesa entre 5% e 15%.
 
 O número de indicadores varia: 112 nos hospitais de conselho e 100 nos dispensários. A área de infraestrutura pesa 10% e avalia:
 
@@ -177,7 +138,7 @@ A gestão de resíduos é avaliada na área de prevenção e controlo de infeç�
 | 80–89% | 4 |
 | 90–100% | 5 |
 
-Unidades abaixo de 20% em qualquer domínio eram consideradas inseguras, com recomendação de encerramento.
+Unidades com 60% ou mais nos quatro grandes domínios eram consideradas de bom desempenho. Unidades abaixo de 20% em qualquer domínio eram consideradas inseguras, com recomendação de encerramento.
 
 **Consequências.**
 
@@ -186,7 +147,11 @@ Unidades abaixo de 20% em qualquer domínio eram consideradas inseguras, com rec
 - Os resultados foram integrados nos planos de saúde dos conselhos.
 - Certificados para as melhores unidades e troféus para os conselhos premiados.
 
-**Resultados.** Gage et al. (Bull WHO, 2020) analisaram 5.595 unidades com classificação nas duas rondas (2015 e 2017–2018):
+**Gestão.** Os dados são compilados ao nível distrital, e a base nacional é gerida pela unidade de garantia da qualidade do Ministério. As equipas distritais de gestão fazem supervisão trimestral.
+
+**Resultados.** Numa análise de 1.908 unidades de 8 regiões (Kinyenje et al., 2020), a adesão mediana às normas de prevenção de infeção passou de 31% para 57% entre a linha de base (2015/16) e a reavaliação (2017/18). Segundo outra fonte, as unidades com três estrelas ou mais passaram de 2% para 21% em 18 meses.
+
+Gage et al. (Bull WHO, 2020) analisaram 5.595 unidades com classificação nas duas rondas (2015 e 2017–2018):
 
 - na linha de base, 34% tinham zero estrelas e 52% uma estrela;
 - na reavaliação, 3% desceram, 25% mantiveram, 45% subiram uma estrela e 27% subiram duas ou mais; ao todo, 72% (4.028 unidades) melhoraram;
@@ -213,8 +178,10 @@ Unidades abaixo de 20% em qualquer domínio eram consideradas inseguras, com rec
 - Estudo antes e depois, sem grupo de controlo.
 - A ferramenta dá peso excessivo aos insumos e não considera desfechos de saúde.
 - Os avaliadores estavam ligados às equipas distritais; não se pode afastar a hipótese de notas inflacionadas.
+- Três autores de Kinyenje et al. pertenciam à unidade que implementava a avaliação.
 - Ferramentas em inglês e não em kiswahili.
 - Previa-se uma ronda a cada um ou dois anos, mas houve só duas.
+- Não há dados sobre encerramentos efetivos.
 
 **Digitalização em DHIS2.**
 
@@ -233,6 +200,7 @@ Fontes:
 - Contribuição do RBF (Geita, Songwe): https://www.opastpublishers.com/open-access-articles/contribution-of-resultsbased-financing-in-quality-improvement-of-health-services-at-primary-healthcare-facilities-findin.pdf
 - Digitalização DHIS2: https://community.dhis2.org/t/digitizing-health-facility-assessment-and-star-rating-in-tanzania-a-mechanism-for-improving-quality-of-healthcare-provision-for-universal-healthcare-coverage/47618
 - MSH, lições: https://msh.org/story/lessons-learned-from-the-star-rating-assessment-tool-in-tanzania/
+- MSH, 2019: https://msh.org/wp-content/uploads/2019/05/tssp_tech_highlight_star_rating_051519.pdf
 
 ### 5.3 Indonésia: acreditação obrigatória dos Puskesmas
 
@@ -345,7 +313,7 @@ Em 2016 o Ministério da Saúde aprovou as Ethiopian Health Center Reform Implem
 
 ### 5.9 Quénia: inspeção conjunta (piloto 2017–2018)
 
-Descrito no `governanca.md` (secção 6.3): lista única de oito agências, cinco categorias com intervalo de reinspeção de 3 a 24 meses, pontuações de 41% contra 35% no ensaio KePSIE.
+Descrito em [Governança e legislação](../governanca/) (secção 6.3): lista única de oito agências, cinco categorias com intervalo de reinspeção de 3 a 24 meses, pontuações de 41% contra 35% no ensaio KePSIE.
 
 - Tama et al., IJHPM 2022: https://www.ijhpm.com/article_4103.html
 

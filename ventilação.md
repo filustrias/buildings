@@ -17,7 +17,6 @@ As publicações encontradas formam quatro grupos: normas da OMS, normas técnic
 - Taxas mínimas, em média horária: 60 L/s por doente no ambulatório e em enfermarias gerais; 160 L/s por doente em salas de precaução aérea, nunca abaixo de 80 L/s; 2,5 L/s/m³ em corredores (pp. xx, 21–22).
 - Ordem de preferência: ventilação natural; se não bastar, híbrida; depois mecânica (p. 22).
 - O próprio guia reconhece que a evidência epidemiológica para fixar esses números é fraca (p. 22).
-- Páginas não conferidas no PDF.
 
 ### Roadmap to improve and ensure good indoor ventilation in the context of COVID-19 (OMS, 2021)
 
@@ -28,7 +27,6 @@ As publicações encontradas formam quatro grupos: normas da OMS, normas técnic
 - Ar recirculado filtrado e purificadores portáteis não substituem a ventilação em nenhuma circunstância (pp. 9, 12, 13, 17). O glossário nota que os *splits* muitas vezes não têm componente de ar novo (p. vi).
 - Ventiladores de pé ou de teto só melhoram a mistura do ar depois de atingida a taxa mínima. Um ventilador virado para fora da janela extrai ar (p. 6).
 - Estimativa da ventilação natural: vazão (L/s) = k × velocidade do vento (m/s) × menor abertura (m²) × 1000, com k = 0,05 para ventilação de um só lado e 0,65 para ventilação cruzada. A rede mosquiteira reduz a vazão a metade (p. 18).
-- Páginas inferidas pelo leitor web, não conferidas no PDF.
 
 ### Diretrizes de prevenção e controlo da TB (OMS, 2019, reeditadas em 2022)
 
@@ -51,10 +49,10 @@ As diretrizes não fixam taxa numérica de ventilação. A UV germicida é a med
 Diretriz 9, desenho do edifício:
 
 - 6–12 renovações/h em espaços com ventilação mecânica em locais de alto risco de TB; taxas altas são possíveis também com ventilação natural (p. 43).
-- O ar deve entrar pela parte alta da sala e sair junto ao piso (p. 43).
+- O ar deve entrar pela parte alta da sala e sair junto ao piso, que é a parte mais contaminada (p. 43).
 - Ventiladores de teto e ventiladores portáteis pequenos não são recomendados em áreas de procedimentos, porque espalham poeira (p. 43).
 - Filtros e sistemas de climatização exigem manutenção regular, porque acumulam biofilme e podem transmitir *Legionella* (p. 43).
-- Implantar e construir tendo em conta o clima local e os ventos dominantes; usar estores, abertura de portas e janelas e vegetação para melhorar as condições internas (pp. 42–43).
+- Implantar e construir tendo em conta o clima local e os ventos dominantes; usar estores, abertura de portas e janelas e vegetação em volta do edifício para melhorar as condições internas (pp. 42–43).
 
 ### Guidance for climate-resilient and environmentally sustainable health care facilities (OMS, 2020), conferido no PDF
 
@@ -119,6 +117,8 @@ Diretriz 9, desenho do edifício:
 - **Zhu et al. (PLoS One, 2025).** Simulação computacional de uma sala de espera de 8 × 4 × 2,5 m com nove pessoas. Fechar janelas e ventilação superior produziu as maiores concentrações de partículas. A 30 °C, abrir só as janelas não bastou: a ventilação superior reduziu as partículas mais 2,5 vezes. A 10 °C, as janelas abertas foram suficientes. É só simulação, sem validação experimental.
 
 ### Experiências de projeto
+
+Casos e fontes em detalhe no [estudo comparativo](../estrutura-fisica-unidades-csp-estudo-comparativo/).
 
 - **MASS Design Group, Butaro (Ruanda) e centros de saúde do Mali:** ventilação cruzada, corredores exteriores, pé-direito alto e ventiladores como redundância; em Butaro, também lâmpadas UV germicidas.
 - **Kéré (Burkina Faso):** massa térmica de terra e laterite e coberturas largas e destacadas para dispensar o ar condicionado num clima que ultrapassa 45 °C.

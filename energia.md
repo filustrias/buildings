@@ -10,8 +10,6 @@ O estudo trata da energia elétrica em unidades de saúde na comunidade: postos,
 
 **Custos.** Mantêm-se na moeda e no ano da fonte; os valores marcados (calc.) foram calculados aqui a partir da própria fonte.
 
-**Imagens.** Não podem ser descarregadas desta sessão para dentro do documento. A secção de imagens aponta para as páginas de origem.
-
 ## Situação
 
 Na África Subsaariana, cerca de 15% das unidades de saúde não têm eletricidade nenhuma e só cerca de 40% têm eletricidade fiável. Os centros de saúde e postos estão pior que os hospitais, e as unidades rurais pior que as urbanas. No mundo, cerca de 1 bilhão de pessoas são servidas por unidades sem eletricidade ou com eletricidade não fiável. Fonte principal: [Energizing Health, OMS, Banco Mundial, IRENA e SEforALL, 2023](https://www.seforall.org/system/files/2023-01/energizing_health.pdf).
@@ -33,7 +31,7 @@ O conceito de "fiável" usado em inquéritos anteriores é não ter tido nenhum 
 ### Moçambique e Angola
 
 - **Moçambique** ([IRENA, 2025](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Jan/IRENA_Electrification_renewables_healthcare_Mozambique_2025.pdf), secções 2–4): cerca de 40% das unidades de nível I dependem só de solar; só 52,5% cobrem as necessidades básicas de iluminação; os cortes duram em média 4 horas e chegam a 18; 30 de 40 locais não tinham reserva; 25% relatam equipamento danificado por oscilação de tensão. O FUNAE tinha eletrificado 561 centros de saúde até 2019. Em 2021, 19% de 1.643 unidades públicas não tinham energia ([Gavi, 2025](https://www.gavi.org/vaccineswork/during-mozambiques-all-too-frequent-climate-disasters-solar-powered-batteries-are)).
-- **Angola:** não foi encontrado levantamento da eletricidade nas unidades de saúde. Um estudo técnico-económico modelou postos de saúde no Cunene e na Huíla com 1,2 kW de solar, a EUR 3.255 sem bateria, e concluiu que o investimento não se paga face ao gasóleo subsidiado em mais de 70% ([Mbumba et al., JSDEWES 2024](https://www.sdewes.org/jsdewes/pid12.0524)). É um modelo, não uma avaliação no terreno, e mostra que o subsídio ao gasóleo pesa contra o solar enquanto durar.
+- **Angola:** não foi encontrado levantamento da eletricidade nas unidades de saúde. Um estudo técnico-económico modelou postos de saúde no Cunene e na Huíla com 1,2 kW de solar, a EUR 3.255 sem bateria, e concluiu que o investimento não se paga face ao gasóleo subsidiado em mais de 70% ([Mbumba et al., JSDEWES 2024](https://www.sdewes.org/jsdewes/pid12.0524)). É um modelo, não uma avaliação no terreno.
 
 ## Quanto consome uma unidade de cuidados primários
 
@@ -106,7 +104,7 @@ Há programas grandes em quase toda a África Subsaariana, quase todos baseados 
 | --- | --- | --- | --- | --- | --- |
 | Zimbabwe | *Solar for Health* (Fundo Global e PNUD): 1.044 unidades em 2024, mais de 11 MW | Solar com baterias e monitorização remota; garantia de 12 anos nos componentes | USD 18,5 milhões, ~USD 17.700 por unidade (calc.) | Antes, 4–5 h de eletricidade por dia; o solar cobre até 70% das necessidades. Sem avaliação formal de resultados em saúde | [PNUD 2024](https://www.undp.org/zimbabwe/press-releases/undp-global-fund-hands-over-solar-systems-ministry-health-and-child-care-strengthening-zimbabwes-healthcare-infrastructure); [REACH](https://reachalliance.org/wp-content/uploads/2021/03/Zimbabwe-Solar-final.pdf), pp. 2–10 |
 | Zimbabwe | Banco Mundial: 200 locais em 16 distritos rurais | Painéis solares e furos de água solares; pelo menos 2 profissionais treinados em manutenção por unidade | USD 6,6 milhões, ~USD 33.000 por local (calc.) | Atendimento 24 horas | [Banco Mundial 2025](https://www.worldbank.org/en/news/feature/2025/06/16/empowering-the-health-sector-through-solar-access-a-lifeline-for-afe-zimbabwe-medical-facilities) |
-| Moçambique | FUNAE: 561 centros de saúde eletrificados até 2019; ~40% das unidades dependem só de solar | Solar autónomo | — | 87% dos inquiridos relatam problemas; baterias não funcionais nos locais visitados | [IRENA 2025](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Jan/IRENA_Electrification_renewables_healthcare_Mozambique_2025.pdf) |
+| Moçambique | FUNAE: 561 centros de saúde eletrificados até 2019 | Solar autónomo | — | ver "Quanto falha" | [IRENA 2025](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2025/Jan/IRENA_Electrification_renewables_healthcare_Mozambique_2025.pdf) |
 | Moçambique, Sofala | Power Africa: 92 centros de saúde | ~0,6 kWp e 2,4 kWh por centro (cargas críticas) | USD 320 mil, ~USD 3.500 por centro (calc.) | Manutenção paga no 1.º ano, depois 5 anos pela empresa | [Energypedia](https://energypedia.info/wiki/Electrifying_Health_Centers_in_Mozambique) |
 | Moçambique | GIZ: 42 postos de saúde em 4 províncias (2020) | Solar com desinfeção de água | — | — | idem |
 | Moçambique | Fundo Global e PNUD: 16 unidades em 2026, mais 84 previstas | — | — | Em comissionamento | [PNUD Moçambique](https://www.undp.org/mozambique/stories/powering-better-health-through-sustainable-energy) |
@@ -121,7 +119,6 @@ Há programas grandes em quase toda a África Subsaariana, quase todos baseados 
 | Etiópia, Zâmbia, Uganda, Nigéria (Gavi, total) | Mais de 1.700 unidades: Etiópia 380, Zâmbia 296 | — | Mais de USD 30 milhões; ~USD 14.000–17.000 por unidade (calc.) | Sem resultados medidos | [Gavi 2026](https://www.gavi.org/news/media-room/health-facility-solarisation-drive-unlocks-benefits-over-140-million-people) |
 | Somália | OMS: 51 unidades | 5 kWp com baterias; manutenção por 5 anos pela empresa local | ~USD 35.000 por sistema | Em monitorização | [NRC](https://www.nrc.no/globalassets/pdf/reports/briefing-on-healthcare-electrification-in-humanitarian-settings/briefing-on-humanitarian-health-facility-electrification.pdf), pp. 44–47 |
 | Madagáscar | Banco Mundial (LEAD): 500 de 1.250 centros rurais sem eletricidade | Kits solares | — | Partos e pequenas cirurgias com iluminação adequada | [Banco Mundial](https://www.worldbank.org/en/news/feature/2025/01/21/bringing-light-and-life-to-rural-health-centers-in-afe-madagascar) |
-| Lesoto, montanhas | PIH: 7 centros de saúde | Solar completo com gerador de reserva | Diesel de ~USD 700 para ~350 por centro por mês | Fim dos ~5 cortes por semana | [PIH](https://pih.org/article/qa-how-solar-power-improving-patient-care-lesotho) |
 
 Não foram encontrados dados públicos verificáveis para Gana, Ruanda, Tanzânia, RD Congo, Sudão do Sul, Burkina Faso, Mali, Níger, Cabo Verde, Guiné-Bissau e São Tomé, nem para programas angolanos específicos de postos de saúde.
 
@@ -214,8 +211,6 @@ A experiência mais estudada é a da Índia: programas estaduais de solarizaçã
 | Terra Yanomami, Brasil (2023) | 62 sistemas fotovoltaicos com bateria em postos de saúde, pelo programa Mais Luz para a Amazônia | não informado | — | [Canal Solar](https://canalsolar.com.br/mme-instalara-62-sistemas-fotovoltaicos-com-baterias-na-terra-yanomami/) |
 | UBS fluvial de Tefé, Brasil | Gerador diesel (contexto, sem solar) | Combustível = 12,11% do custo de R$ 761.706 em 9 viagens | A seca encarece as expedições | [Medicina S/A](https://medicinasa.com.br/custos-ubs-fluviais-amazonia/) |
 
-O caso da UBS Avá-Canoeiro dá uma ordem de grandeza útil para o Brasil: uma UBS pequena e isolada funciona 24 horas com ~8 kWp e ~29 kWh de baterias, por cerca de R$ 95 mil em 2020. O modelo do Nepal, com 10% do subsídio retido até o fornecedor cumprir dois anos de manutenção, responde a uma das principais causas de falha.
-
 ## Como se organiza um sistema híbrido
 
 O desenho mais comum nas experiências descritas combina painéis solares, baterias, a rede quando existe e um gerador de reserva, ligados por um inversor híbrido. O ponto decisivo é separar as cargas: o que não pode parar fica num circuito próprio, servido pelas baterias à noite; o que consome muito funciona de dia, com sol.
@@ -229,9 +224,7 @@ Componentes do diagrama:
 - **Quadro elétrico com dois circuitos separados:**
     - cargas críticas — frio de vacinas, luz da sala de parto, concentrador de oxigénio, comunicações; prioridade nas baterias durante a noite;
     - cargas não críticas — ventoinhas e ar condicionado, bombagem de água e lavandaria; ligadas sobretudo de dia, com sol.
-- **Sistemas independentes, fora do inversor:** refrigerador solar direto (painel próprio, sem bateria), aquecedor solar de água e kit solar da maternidade (luz e monitorização no parto).
-
-Alguns equipamentos funcionam melhor fora do sistema central. O refrigerador solar direto tem painel próprio e guarda o frio sem bateria, o que o torna independente de avarias no resto do sistema. O aquecedor solar de água não gasta eletricidade.
+- **Sistemas independentes, fora do inversor:** refrigerador solar direto (painel próprio, guarda o frio sem bateria e fica independente de avarias no resto do sistema), aquecedor solar de água (não gasta eletricidade) e kit solar da maternidade (luz e monitorização no parto).
 
 ## Custos e financiamento
 
@@ -368,7 +361,7 @@ Se descarregar as fotos destas páginas para a pasta `buildings`, insiro-as nas 
 | Postos de saúde na Terra Yanomami (Brasil Energia) | Erro do servidor | https://brasilenergia.com.br |
 | Entrega de refrigeradores solares à Bolívia (OPAS 2024) | Não aberto | https://www.paho.org/es/noticias/26-4-2024-opsoms-entrega-al-ministerio-salud-deportes-refrigeradores-solares-para |
 
-As páginas citadas foram identificadas por leitor web e não estão conferidas no PDF, exceto as do guia da OMS de 2020. Se gravar na pasta `buildings` o *Energizing Health*, o relatório IRENA de Moçambique e a avaliação da Serra Leoa, posso conferi-las.
+Se gravar na pasta `buildings` o *Energizing Health*, o relatório IRENA de Moçambique e a avaliação da Serra Leoa, posso conferir as páginas citadas.
 
 ## Fontes
 
